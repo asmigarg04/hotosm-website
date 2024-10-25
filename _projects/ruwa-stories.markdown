@@ -38,6 +38,12 @@ Avant de publier les données sur OpenStreetMap, chaque point a été soigneusem
 
 Une fois les données validées, des analyses poussées ont permis de créer des cartes thématiques adaptées aux besoins des parties prenantes. L'accent a été mis sur les points d’eau : qualité, localisation et proximité avec les infrastructures essentielles telles que les toilettes publiques, les cimetières et les sites de gestion des déchets.
 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="/uploads/Niger2022C-4c3509.jpg" alt="Image 1" style="width: 48%;">
+    <img src="/uploads/Niger2022D-0fd419.jpg" alt="Image 2" style="width: 48%;">
+</div>
+
+
 | ![Niger2022C-4c3509.jpg](/uploads/Niger2022C-4c3509.jpg) | ![Niger2022D-0fd419.jpg](/uploads/Niger2022D-0fd419.jpg) |
 |---|---|
 
