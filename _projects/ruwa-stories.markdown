@@ -6,6 +6,12 @@ Project Summary Text: 'Le Projet Ruwa (Rural Water Access) Niger : Cartographier
 
 '
 Feature Image: "/uploads/Capture%20d%E2%80%99e%CC%81cran%202024-10-25%20a%CC%80%2015.38.44.PNG"
+Country:
+- Niger
+Impact Area:
+- Public Health
+Tools:
+- link: https://youtu.be/VUiFJTvuD_c?t=10
 ---
 
 ## Une région sous pression hydrique
