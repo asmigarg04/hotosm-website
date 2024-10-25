@@ -60,7 +60,6 @@ Block 2:
   - Gaza Building Footprints Pre-Conflict Update 2024
   - Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
     System
-  - Energy Saving Solutions and Retailers in Bidibidi Refugee Settlement
   - Geospatial Data for Humanitarian Response in Sudan Conflict
 Program-summary:
   Program Summary Text: |+
