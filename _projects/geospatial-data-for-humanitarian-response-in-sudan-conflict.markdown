@@ -38,9 +38,10 @@ Guided by [HOT’s data principles](https://www.hotosm.org/tools-and-data/data-p
 
 Currently, [HOT exports 11 datasets from OpenStreetMap to HDX](https://data.humdata.org/dataset/?groups=sdn&organization=hot&q=&sort=last_modified%20desc&ext_page_size=25) for Sudan, and provides for custom exports from OSM through [HOT’s Export Tool](https://export.hotosm.org/v3/). Most of the spatial datasets for Sudan still need improvements. To improve data for humanitarian use, and allow for more evidence based decisions, HOT will harness participatory mapping power to address data quality issues and data gaps. Work will include:
 
-1 Enhancing roads networks .This involves updating and validating road network data to reflect current conditions
+### Key Initiatives
 
-2 Validating and enriching data on populated places  to aid resource allocation and humanitarian planning.
+1. **Enhancing Road Networks**: This involves updating and validating road network data to reflect current conditions.
+2. **Validating and Enriching Data on Populated Places**: This initiative aims to aid resource allocation and humanitarian planning by validating and enriching data on populated places.
 
 ### Get Involved
 
