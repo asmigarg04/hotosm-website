@@ -42,4 +42,25 @@ Dès les premières phases du projet, une évaluation des besoins des parties pr
 - **334 People trained / Personnes formées**
 - **12 Thematic maps / Carte Thématiques**
 
-![img1](https://www.flickr.com/photos/hotosm/53982633523/in/album-72177720320186462)
+## Galerie de photos
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="https://www.flickr.com/photos/hotosm/53982819475/in/album-72177720320186462" alt="Description photo 1" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="https://www.flickr.com/photos/hotosm/53981500107/in/album-72177720320186462" alt="Description photo 2" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="https://www.flickr.com/photos/hotosm/53981500312/in/album-72177720320186462" alt="Description photo 3" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="https://www.flickr.com/photos/hotosm/53982633523/in/album-72177720320186462" alt="Description photo 4" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="https://www.flickr.com/photos/hotosm/53982383926/in/album-72177720320186462" alt="Description photo 5" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="https://www.flickr.com/photos/hotosm/53982384116/in/album-72177720320186462" alt="Description photo 6" style="width: 100%; height: auto;">
+  </div>
+</div>
