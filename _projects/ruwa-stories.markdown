@@ -5,7 +5,7 @@ Project Summary Text: 'Le Projet Ruwa Niger : Cartographier l''accès à l''eau 
   la région du Sahel.
 
 '
-Feature Image: "/uploads/53981500312_4256c0e227_o.jpg"
+Feature Image: "/uploads/Capture%20d%E2%80%99e%CC%81cran%202024-10-25%20a%CC%80%2015.38.44.PNG"
 ---
 
 ## Une région sous pression hydrique
