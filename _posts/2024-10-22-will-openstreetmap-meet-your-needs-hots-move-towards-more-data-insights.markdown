@@ -310,7 +310,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 
 Is an “incomplete” dataset still usable? And what about its attributes (OSM tags)? It depends on the use case. Based on user feedback, we’ve developed resources to better understand OSM data before downloading. 
 
-Starting with roads and populated place datasets, we surveyed OSM data users for the most important factors they consider when determining if a dataset is usable. We found that spatial coverage is the most important factor, especially for populated places, while precision and attributes also remain important. 
+Starting with roads and populated place datasets, we surveyed OSM data users for the most important factors they consider when determining if a dataset is usable. We found that spatial coverage is the most important factor, especially for populated places, while precision and attributes also remain important. Click on elements of the graph to test different view options.
 
 <br>
 
