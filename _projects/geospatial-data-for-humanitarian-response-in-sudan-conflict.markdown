@@ -36,3 +36,11 @@ Currently, [HOT exports 11 datasets from OpenStreetMap to HDX](https://data.humd
 *##  Get Involved*
 
 ### *Are you with an organization working in Sudan or other conflict affected areas or interested in supporting other ways? Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide*.
+<br>
+<span style="font-size: 0.8em;"><font color="#778899"><a> Cover photo: </a><a href="https://commons.wikimedia.org/wiki/File:Khartoum_ISS010E23451_lrg.jpg">Wikipedia</a> - NASA, Satellite picture of Khartoum, Omdurman and Bahri - <a href="https://flic.kr/p/63oF5P">War in Gaza 023</a> - Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></font></span>
+<br>
+<br>
+**Sponsored by:**
+<br>
+<br>
+<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="100" height="100">
