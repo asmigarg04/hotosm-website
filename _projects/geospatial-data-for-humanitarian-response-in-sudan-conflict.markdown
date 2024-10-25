@@ -28,11 +28,11 @@ Tools:
 - Tool: uMap
 ---
 
-##  Background*
+## Background
 
 Now in its second year, the civil war in Sudan has led to deteriorating humanitarian conditions. As of September 2024, Sudan is facing the world’s highest displacement, and millions face inadequate food, health, and other basic services and protection ([IOM](https://www.iom.int/news/sudan-internal-displacement-set-top-10-million-famine-looms-iom#:~:text=IOM's%20Displacement%20Tracking%20Matrix%2C%20which,war%2C%20and%207.1%20million%20since.)). The mounting crisis with inadequate funding makes it critical for data and maps to be available to all humanitarian responders, saving on time and resources to plan for adequate aid delivery. 
 
-##  Participatory Mapping*
+## Participatory Mapping
 
 Guided by [HOT’s data principles](https://www.hotosm.org/tools-and-data/data-principles/), and with~[support from H2H](https://h2hnetwork.org/h2hsupport-package-conflict-sudan)~, HOT is working with regional OSM communities and humanitarian partners to improve spatial data for the road network and populated places.   
 
@@ -40,11 +40,10 @@ Currently, [HOT exports 11 datasets from OpenStreetMap to HDX](https://data.humd
 
 1 Enhancing roads networks .This involves updating and validating road network data to reflect current conditions
 
-⠀
 2 Validating and enriching data on populated places  to aid resource allocation and humanitarian planning.
 
 ⠀
-*##  Get Involved*
+## Get Involved
 
 ### *Are you with an organization working in Sudan or other conflict affected areas or interested in supporting other ways? Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide*.
 <br>
