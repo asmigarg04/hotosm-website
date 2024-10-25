@@ -49,3 +49,24 @@ Dès les premières phases du projet, une évaluation des besoins des parties pr
 * **12 Thematic maps / Carte Thématiques**
 
 ## Galerie de photos
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="/uploads/53982819475_b9982dbfd7_o.jpg" alt="Description photo 1" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="/uploads/53981500107_64d4cd286c_o.jpg" alt="Description photo 2" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="/uploads/53981500312_4256c0e227_o%20(1).jpg" alt="Description photo 3" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="/uploads/53982633523_a2156c1b6b_o.jpg" alt="Description photo 4" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="/uploads/53982383926_db971199db_o.jpg" alt="Description photo 5" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
+    <img src="/uploads/53982384116_024e2ebbfe_o.jpg" alt="Description photo 6" style="width: 100%; height: auto;">
+  </div>
+</div>
