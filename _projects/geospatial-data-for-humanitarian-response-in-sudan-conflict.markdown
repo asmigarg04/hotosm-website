@@ -1,7 +1,6 @@
 ---
 title: Geospatial Data for Humanitarian Response in Sudan Conflict
 date: 2024-10-25 18:48:00 Z
-published: false
 Project Summary Text: 'With support from the H2H Network, HOT is working with partners
   to improve spatial data in Khartoum and other conflict-impacted areas in Sudan.
   By collaborating with humanitarian networks and local and regional OSM communities,
