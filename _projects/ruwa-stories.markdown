@@ -36,7 +36,7 @@ Une fois les données validées, des analyses poussées ont permis de créer des
 
 Dès les premières phases du projet, une évaluation des besoins des parties prenantes a été effectuée. Des cartes spécifiques ont été créées, comme celles montrant des points d’eau salins ou la proximité des points d’eau par rapport aux villages, offrant aux municipalités des outils précieux pour visualiser les infrastructures hydrauliques et planifier leur gestion.
 
-## **Key Numbers - RUWA**
+## Key Numbers - RUWA
 
 * **22,086 Buildings** / Bâtiments
 
