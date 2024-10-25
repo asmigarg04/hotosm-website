@@ -13,7 +13,7 @@ Country:
 Impact Area:
 - Disasters & Climate Resilience
 Person:
-- Jessie Pechmann
+- Jessica Pechmann
 Partner:
 - H2H
 - OSM Sudan
