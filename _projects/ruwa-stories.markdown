@@ -48,7 +48,7 @@ Dès les premières phases du projet, une évaluation des besoins des parties pr
 
 * **12 Thematic maps / Carte Thématiques**
 
-## Galerie de photos
+## Pictures
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <div style="flex-basis: calc(33.333% - 10px); margin-bottom: 10px;">
