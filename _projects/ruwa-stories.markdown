@@ -8,7 +8,7 @@ Project Summary Text: 'Le Projet Ruwa Niger : Cartographier l''accès à l''eau 
 Feature Image: "/uploads/53981500312_4256c0e227_o.jpg"
 ---
 
-# Une région sous pression hydrique
+## Une région sous pression hydrique
 
 Le Sahel, s'étendant de la Mauritanie au Soudan, est l'une des régions les plus touchées par le stress hydrique en raison de son climat aride et de la faible pluviométrie. Cette situation met une pression énorme sur les ressources en eau, notamment au Niger, un pays parmi les plus sous-développés et gravement affecté par le manque d'eau.
 
@@ -36,21 +36,19 @@ Une fois les données validées, des analyses poussées ont permis de créer des
 
 Dès les premières phases du projet, une évaluation des besoins des parties prenantes a été effectuée. Des cartes spécifiques ont été créées, comme celles montrant des points d’eau salins ou la proximité des points d’eau par rapport aux villages, offrant aux municipalités des outils précieux pour visualiser les infrastructures hydrauliques et planifier leur gestion.
 
-### **Key Numbers - RUWA**
+## **Key Numbers - RUWA**
 
-* **22,086 Buildings / Bâtiments**
+* **22,086 Buildings** / Bâtiments
 
-* **3,035 km kilometers of roads / Kilomètres de routes**
+* **3,035 km kilometers of roads** / Kilomètres de routes
 
-* **2,210 Amenities / Espaces de commodité**
+* **2,210 Amenities** / Espaces de commodité
 
-* **334 People trained / Personnes formées**
+* **334 People trained** / Personnes formées
 
-* **12 Thematic maps / Carte Thématiques**
+* **12 Thematic maps** / Carte Thématiques
 
 ## Pictures
-
-## Galerie de photos
 
 | ![Description photo 1](/uploads/53982819475_b9982dbfd7_o.jpg) | ![Description photo 2](/uploads/53981500107_64d4cd286c_o.jpg) | ![Description photo 3](/uploads/53981500312_4256c0e227_o%20(1).jpg) |
 |---|---|---|
