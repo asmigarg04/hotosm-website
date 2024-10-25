@@ -43,10 +43,6 @@ Une fois les données validées, des analyses poussées ont permis de créer des
     <img src="/uploads/Niger2022D-0fd419.jpg" alt="Image 2" style="width: 48%;">
 </div>
 
-
-| ![Niger2022C-4c3509.jpg](/uploads/Niger2022C-4c3509.jpg) | ![Niger2022D-0fd419.jpg](/uploads/Niger2022D-0fd419.jpg) |
-|---|---|
-
 ## Un impact durable pour les communautés locales
 
 Dès les premières phases du projet, une évaluation des besoins des parties prenantes a été effectuée. Des cartes spécifiques ont été créées, comme celles montrant des points d’eau salins ou la proximité des points d’eau par rapport aux villages, offrant aux municipalités des outils précieux pour visualiser les infrastructures hydrauliques et planifier leur gestion.
@@ -65,4 +61,4 @@ Dès les premières phases du projet, une évaluation des besoins des parties pr
 
 ## Pictures
 
-[SlidesRuwa1.JPG](/uploads/SlidesRuwa1.JPG)
+![SlidesRuwa1.JPG](/uploads/SlidesRuwa1.JPG)
