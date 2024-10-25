@@ -17,9 +17,15 @@ Person:
 - Jessie Pechmann
 Partner:
 - H2H
+- OSM Sudan
+- HDX
 Duration:
   Start Date: 2024-06-01 00:00:00 Z
   End Date: 2025-02-28 00:00:00 Z
+Tools:
+- tool: Tasking Manager
+- link: 
+- Tool: uMap
 ---
 
 ##  Background*
