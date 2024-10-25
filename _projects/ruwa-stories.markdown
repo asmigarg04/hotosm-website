@@ -37,6 +37,7 @@ Avant de publier les données sur OpenStreetMap, chaque point a été soigneusem
 ## Analyses et recommandations pour une gestion durable
 
 Une fois les données validées, des analyses poussées ont permis de créer des cartes thématiques adaptées aux besoins des parties prenantes. L'accent a été mis sur les points d’eau : qualité, localisation et proximité avec les infrastructures essentielles telles que les toilettes publiques, les cimetières et les sites de gestion des déchets.
+[Capture d’écran 2024-10-25 à 15.59.54.PNG](/uploads/Capture%20d%E2%80%99e%CC%81cran%202024-10-25%20a%CC%80%2015.59.54.PNG)
 
 ## Un impact durable pour les communautés locales
 
