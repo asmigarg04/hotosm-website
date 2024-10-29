@@ -56,6 +56,8 @@ Mr. Gregory Blamo from the Liberia Red Cross Society encapsulates this sentiment
 
 Through its initiatives, HOT aims to democratize open data, ensuring that no community is left behind in disaster preparedness and response efforts.
 
+## Watch Our Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 ---
 
 ## Follow Us for More Information
