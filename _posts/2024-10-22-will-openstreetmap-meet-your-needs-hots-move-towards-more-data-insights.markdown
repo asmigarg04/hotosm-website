@@ -764,7 +764,7 @@ Based on these insights, we are currently working on adding additional data qual
 
 With clearer OSM data insights, humanitarians can spend more time on analyzing data and making informed decisions than on figuring out what dozens of data source with poor metadata are actually about. Organizations planning aid delivery will be able to identify crisis impacted populated centers, and road transportation to reach an impacted population and deliver aid.  
 
-**Excited for these new resources on OSM insights? Have a request? Don’t hesitate to contact us at [data@hosm.org](mailto:data@hosm.org).** 
+**Excited for these new resources on OSM insights? Have a request? Don’t hesitate to contact us at [data@hosm.org](mailto:data@hotosm.org).** 
 <br>
 <br>
 **Sponsored by:**
