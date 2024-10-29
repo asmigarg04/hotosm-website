@@ -57,15 +57,15 @@ Mr. Gregory Blamo from the Liberia Red Cross Society encapsulates this sentiment
 Through its initiatives, HOT aims to democratize open data, ensuring that no community is left behind in disaster preparedness and response efforts.
 
 ## Watch Our Video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
 ---
 
 ## Follow Us for More Information
+
 For further updates, connect with us on:
 - [Facebook](https://www.facebook.com/Hotwnah?_rdc=1&_rdr)
 - [Instagram](https://www.instagram.com/hot.wnah/)
 - [X (formerly Twitter)](https://x.com/i/flow/login?redirect_after_login=%2Fopenmapping_wna)
 - [LinkedIn](https://www.linkedin.com/company/hot-west-and-north-africa-hub/)
-- [YouTube](https://www.youtube.com/@HOT-WestandNorthernAfricaHub)
-- [HOT Website](https://www.hotosm.org)
