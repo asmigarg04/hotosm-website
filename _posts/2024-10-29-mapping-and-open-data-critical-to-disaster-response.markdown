@@ -58,7 +58,7 @@ Through its initiatives, HOT aims to democratize open data, ensuring that no com
 
 ## Watch Our Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.hotosm.org/updates/mapping-and-open-data-critical-to-disaster-response/" frameborder="0" allowfullscreen></iframe>
 
 ---
 
