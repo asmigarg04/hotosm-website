@@ -70,10 +70,7 @@ Absolutely! MapSwipe is a great, kid-friendly tool that’s simple and fun to us
 You can share your experience on social media using the hashtag #MapGiveImpact. Post photos, screenshots, or stories about your mapping journey, and tag HOT to be featured! This helps spread awareness and encourages others to join in.
 
 You can find us on the following platforms:
-Facebook: [@hotosm](https://www.facebook.com/hotosm)
-Instagram: [@open.mapping.hubs](https://www.instagram.com/open.mapping.hubs/)
-X: [@hotosm](https://x.com/hotosm)
-LinkedIn: [Humanitarian OpenStreetMap Team](https://www.linkedin.com/company/humanitarian-openstreetmap-team/)
+Facebook: [@hotosm](https://www.facebook.com/hotosm)/ Instagram: [@open.mapping.hubs](https://www.instagram.com/open.mapping.hubs/) /X: [@hotosm](https://x.com/hotosm) / LinkedIn: [Humanitarian OpenStreetMap Team](https://www.linkedin.com/company/humanitarian-openstreetmap-team/)
 
 → **Q8: Can I win prizes or earn recognition for participating?**
 
