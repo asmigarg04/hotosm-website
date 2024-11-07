@@ -1,7 +1,6 @@
 ---
-title: 'Map, Give, Impact: A 24hr Telemapathon'
+title: 'Map, Give, Impact: A 24 hr Telemapathon'
 date: 2024-11-07 18:15:00 Z
-published: false
 Summary Text: Open map data has a powerful impact on communities in vulnerable regions,
   but this wouldn’t be possible without the dedication of people around the world.
   Whether it’s a few hours each week, a portion of their income, or teaching others
@@ -17,7 +16,7 @@ Working Group:
 
 At HOT, we are excited to invite you to our first-ever 24-hour Global Telemapathon! 
 
-Join us on December 4th to celebrate both [Giving Tuesday](https://www.givingtuesday.org/) and [International Volunteer Day](https://en.wikipedia.org/wiki/International_Volunteer_Day). Through mapping, games, and other fun activities, we’ll honor the generosity of those who give what they can to support humanitarian open mapping.
+**Join us on December 4th** to celebrate both [Giving Tuesday](https://www.givingtuesday.org/) and [International Volunteer Day](https://en.wikipedia.org/wiki/International_Volunteer_Day). Through mapping, games, and other fun activities, we’ll honor the generosity of those who give what they can to support humanitarian open mapping.
 
 → **Where?**
 
