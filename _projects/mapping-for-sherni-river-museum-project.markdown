@@ -85,3 +85,21 @@ The pilot project focused on improving existing data of local water bodies and s
 This spatial analysis provides insights into households' ease in accessing water, aiding local actors in making informed decisions on potential water infrastructural gaps and priority locations to tackle.
     </font>
 </span>
+
+#clean this section! 
+
+![]/uploads/3.png)![](/uploads/3.png)
+Fig. 2. OSM Data growth and changes between Oct 2023 and June 2024 (left:[ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=%28water%3D*+or+waterway%3D*%29+and+%28type%3Away+or+type%3Arelation%29&measure=perimeter&bcircles=77.3029417%2C26.6422145%2C10575.9700429); right:[ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=building%3D*+and+%28type%3Away+or+type%3Arelation%29&measure=count&bcircles=77.3029417%2C26.6422145%2C10575.9700429))
+![](/uploads/3.png)
+Fig. 3. KPIs achieved during the project.
+In the long-term, it is expected that the mapped and validated data will serve as key basemaps that can support the local communities in monitoring the health of the rivers and the impact of river conservation efforts. In the short-term, the data will help convey key geo-coded information on these water bodies, and support TBS in advocating the importance of protecting these previously uncharted water bodies to stakeholders across India.
+Additionally, in the short-term, TBS is able to leverage the insights developed by AP Hub with the data on accessibility of the water retaining structures in the Sherni River Basin (see fig. below). The insights will help TBS inform their decision-making processes by assessing the impact of their interventions and to identify priority areas to develop their next retaining structure.
+![](/uploads/3.png)
+![](/uploads/3.png)![](/uploads/3.png)
+Fig. 4, 5, and 6. Water accessibility studies to the settlement, schools, and places of worship.
+The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g. the national government) and galvanise action.
+![](/uploads/3.png)
+Fig. 7. Frontpage of the [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) on the browser.
+# Media
+Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.youtube.com/watch?v=gT72mJwUWww)
+Storymap - [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html)
