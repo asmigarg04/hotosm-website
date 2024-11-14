@@ -6,6 +6,27 @@ Project Summary Text: Through the Open-Mapping for Social Enterprises (OMSE) Pro
   Open Mapping Hub - Asia-Pacific is supporting social enterprises across the Asia-Pacific
   region in using open map data to improve their operations and decision making processes.
   This project highlights our work with Tarun Bharat Sangh in Rajasthan, India.
+Country:
+- India
+Impact Area:
+- Disasters & Climate Resilience
+- Sustainable Cities & Communities
+Person:
+- Bernard Heng
+Partner:
+- Tarun Bharat Sangh
+Duration:
+  Start Date: 2023-01-01 00:00:00 Z
+  End Date: 2024-11-11 00:00:00 Z
+Map Products:
+- https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html
+Tools:
+- tool: Tasking Manager
+- link: 
+- tool: Mapillary
+- link: 
+- tool: StoryMapJS
+- link: https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html
 ---
 
 Summary for Top of Page:
