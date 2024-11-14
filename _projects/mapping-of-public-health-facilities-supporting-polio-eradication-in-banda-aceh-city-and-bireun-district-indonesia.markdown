@@ -7,7 +7,7 @@ Project Summary Text: "The project in Indonesia has transformed lives by trainin
   Red Cross to analyze polio immunization progress and prioritize health promotion
   efforts. This has empowered communities and improved access to essential services,
   making a tangible difference in people's daily lives. \n\n\n\n\n"
-Feature Image: "/uploads/IMG-20221130-WA0027.jpg"
+Feature Image: "/uploads/IMG_1143.jpg"
 Is image top aligned: false
 Is Community-Led: true
 Country:
@@ -15,7 +15,6 @@ Country:
 - 
 Impact Area:
 - Public Health
-Highlight: Public Health
 Person:
 - 
 - 
@@ -34,6 +33,7 @@ Data:
 '
 Tools:
 - tool: mobile apps
+Highlight: Public Health
 ---
 
 To prepare for and to prevent Polio outbreaks in Indonesia, Palang Merah Indonesia (PMI) led the Polio Preparedness Program. PMI faced challenges as health staff urgently needed to increase awareness on the importance of Polio immunization in the regions. However, there was limited spatial data and maps helpful for decision-making on healthcare planning and implementation.
@@ -42,7 +42,7 @@ In 2018, Southeast Asia was rattled by the emergence of Polio cases, including o
 
 The Polio Preparedness Program set out to collect data on the target areas related to Polio and its challenges, completing an initial baseline survey involving over 1000 local respondents from 36 villages across 9 districts. The findings revealed that 41% of respondents lacked information about Polio immunization in the last six months. Furthermore, 30% of respondents in Aceh declined vaccination for their children, citing personal perceptions of safety or halal concerns.
 
-![IMG_1143.jpg](/uploads/IMG_1143.jpg)
+![IMG_1143.jpg](/uploads/IMG-20221130-WA0027.jpg)
 
 To support this program, supplementary data in the form of maps is crucial. This aids in more focused interventions, assessing accessibility to vaccination centers, promoting health in targeted villages, and monitoring the ongoing immunization progress.
 
