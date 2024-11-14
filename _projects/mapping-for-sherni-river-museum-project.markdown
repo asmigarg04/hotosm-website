@@ -6,7 +6,7 @@ Project Summary Text: Through the Open-Mapping for Social Enterprises (OMSE) Pro
   Open Mapping Hub - Asia-Pacific is supporting social enterprises across the Asia-Pacific
   region in using open map data to improve their operations and decision making processes.
   This project highlights our work with Tarun Bharat Sangh in Rajasthan, India.
-Feature Image: "/uploads/sherni-river-museum-2023.png"
+Feature Image: "/uploads/sherni-river-museum-2023-final.png"
 Country:
 - India
 Impact Area:
@@ -30,6 +30,9 @@ Tools:
 
 Summary for Top of Page:
 Since 2023, Tarun Bharat Sangh (TBS) and Open Mapping Hub - Asia Pacific (AP Hub) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. The River Museum will be accessible globally and will share information on the local rivers; and the goal was to eventually scale it to include other rivers across the country, as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
+
+<img src="/uploads/sherni-river-museum-2023.png" alt="Dried Riverbed">
+<figcaption>Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management.</figcaption>
 
 #test
 
