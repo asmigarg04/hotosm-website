@@ -33,6 +33,7 @@ Since 2023, Tarun Bharat Sangh (TBS) and Open Mapping Hub - Asia Pacific (AP Hub
 
 <img src="/uploads/sherni-river-museum-2023.png" alt="Dried Riverbed">
 <figcaption>Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management.</figcaption>
+<span style="font-size: 0.8em;"><font color="#778899"><a> Cover photo: </a><a href="https://commons.wikimedia.org/wiki/File:Khartoum_ISS010E23451_lrg.jpg">Wikipedia</a> - Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management. <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></font></span>
 
 #test
 
