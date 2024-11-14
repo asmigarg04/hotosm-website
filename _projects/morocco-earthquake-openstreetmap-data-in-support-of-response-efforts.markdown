@@ -33,9 +33,6 @@ The 2023 Moroccan earthquake struck several Moroccan cities on the night of Sept
 
 Natural disasters are complex events that require data to support responders effectively. Amid this tragedy, from which the country is still recovering, crowdsourcing efforts leveraging OpenStreetMap (OSM) have again proven the importance of open mapping and data in disaster response. The value of OSM as an open-data platform for disaster management was first demonstrated in Haiti in 2010. Since then, it has supported disaster and resiliency efforts around the world.
 
-![1711641223496.jpg](/uploads/1711641223496.jpg)
-*Local stakeholders participate in the Foundational Phase of the project*
-
 ## Disaster response effort
 
 During a crisis, responders must quickly determine where the event happened, who is affected, and what urgent needs arise. Basic information about affected areas and populations often conveyed through maps, is crucial for effective intervention.
@@ -55,7 +52,7 @@ during the response phase, was able to support ground effort. Source data for th
 
 The OSM data proved immensely valuable for [World Central Kitchen (WCK)](https://wck.org/relief/morocco-earthquake-2023), an organization that provides food for communities facing disaster. The data was very useful for locating small towns and villages, planning routes, and even estimating travel times based on vehicles and road conditions.
 
-> Many of the hardest hit places were small villages in the mountains, not always reflected on other maps, so OSM was critical to understand smaller populated places and to be able to map places in various languages to engage both international and local team members.
+> "Many of the hardest hit places were small villages in the mountains, not always reflected on other maps, so OSM was critical to understand smaller populated places and to be able to map places in various languages to engage both international and local team members."
 * Ali Sharman, Mapping Specialist, World Central Kitchen.*
 
 ## Local Knowledge, Better Maps
