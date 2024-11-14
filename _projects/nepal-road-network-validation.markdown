@@ -1,7 +1,6 @@
 ---
 title: 'Mapping For Climate-Ready Cities: Nepal Road Network Validation'
 date: 2024-10-16 16:33:00 Z
-published: false
 Project Summary Text: |
   Through our Mapping for Climate Ready Cities program, the Humanitarian OpenStreetMap Team (HOT) is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
   <br>
