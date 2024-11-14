@@ -76,5 +76,12 @@ Without representation on maps, these “invisible” rivers and their communiti
 Fig. 1 OSM water bodies data with water retaining structures built by TBS.
 # Outcome and Impact
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
-![](/uploads/3.png.png)![](/uploads/3.png)
-Fig. 2. OSM Data growth and changes between Oct 2023 and June 2024 (left:[ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=%28water%3D*+or+waterway%3D*%29+and+%28type%3Away+or+type%3Arelation%29&measure=perimeter&bcircles=77.3029417%2C26.6422145%2C10575.9700429); right:[ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=building%3D*+and+%28type%3Away+or+type%3Arelation%29&measure=count&bcircles=77.3029417%2C26.6422145%2C10575.9700429))
+![](/uploads/Map1_AP-sherni-river-museum-2023.png)![](/uploads/3.png)
+<span style="font-size: 0.8em; line-height: 1.2;">
+    <font color="#778899">
+        <a> Photo by: </a>
+        <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - 
+        Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management. 
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    </font>
+</span>
