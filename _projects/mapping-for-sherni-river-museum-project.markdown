@@ -6,6 +6,7 @@ Project Summary Text: Through the Open-Mapping for Social Enterprises (OMSE) Pro
   Open Mapping Hub - Asia-Pacific is supporting social enterprises across the Asia-Pacific
   region in using open map data to improve their operations and decision making processes.
   This project highlights our work with Tarun Bharat Sangh in Rajasthan, India.
+Feature Image: "/uploads/Khartoum_ISS010E23451_lrg.jpg"
 Country:
 - India
 Impact Area:
