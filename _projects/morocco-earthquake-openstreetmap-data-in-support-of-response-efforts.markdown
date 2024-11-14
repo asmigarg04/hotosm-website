@@ -67,4 +67,4 @@ operationally useful, such as high-resolution imagery from satellites or drones,
 
 ## Looking for more information?
 
-The WNA Hub has released a comprehensive report covering the outcomes of this project and more detailed information on the available datasets: [Read here.](https://drive.google.com/file/d/10w9HCpRJ4aarzBYmFgJ-aqXrRE_zwXMI/view)
+The WNA Hub has released a comprehensive report covering the outcomes of this disaster response and more detailed information on the available datasets: [Read here.](https://drive.google.com/file/d/10w9HCpRJ4aarzBYmFgJ-aqXrRE_zwXMI/view)
