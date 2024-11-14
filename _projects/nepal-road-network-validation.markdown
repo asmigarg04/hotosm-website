@@ -21,7 +21,7 @@ Partner:
 - Star Fund Nepal
 - KIRDARC
 Duration:
-  Start Date: 2023-10-01 00:00:00 Z
+  Start Date: 2023-10-05 00:00:00 Z
   End Date: 2024-07-30 00:00:00 Z
 Tools:
 - tool: Tasking Manager
