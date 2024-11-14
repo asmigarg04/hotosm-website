@@ -79,9 +79,9 @@ The pilot project focused on improving existing data of local water bodies and s
 ![](/uploads/Map1_AP-sherni-river-museum-2023.png)![](/uploads/3.png)
 <span style="font-size: 0.8em; line-height: 1.2;">
     <font color="#778899">
-        <a> Photo by: </a>
-        <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - 
-        Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management. 
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+        <a>Map by: </a>
+        <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - This map analyses the accessibility of water bodies and water points to settlements within the Sherni River Basin. By overlaying village and hamlet locations with a 500-meter (minimum humanitarian standards) and 1000-meter buffer, the map visualizes the proximity of water sources to these communities.
+<br>
+This spatial analysis provides insights into households' ease in accessing water, aiding local actors in making informed decisions on potential water infrastructural gaps and priority locations to tackle.
     </font>
 </span>
