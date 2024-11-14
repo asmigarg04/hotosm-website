@@ -18,8 +18,6 @@ Partner:
 Duration:
   Start Date: 2023-01-01 00:00:00 Z
   End Date: 2024-11-11 00:00:00 Z
-Map Products:
-- https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html
 Tools:
 - tool: Tasking Manager
 - link: 
