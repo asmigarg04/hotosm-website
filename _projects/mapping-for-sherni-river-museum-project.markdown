@@ -31,6 +31,17 @@ Tools:
 
 Summary for Top of Page:
 Since 2023, Tarun Bharat Sangh (TBS) and Open Mapping Hub - Asia Pacific (AP Hub) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. The River Museum will be accessible globally and will share information on the local rivers; and the goal was to eventually scale it to include other rivers across the country, as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
+
+#test
+
+<script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
+
+<iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="100%" height="500"></iframe>
+
+#test
+
+
+
 # Background/ Problem Statement
 Rivers are important ecosystems that contribute to our economic development, food security, and well-being; with nearly 2 billion people relying on rivers for their drinking water ([UNEP, 2022](https://www.unep.org/news-and-stories/story/four-reasons-protect-rivers)). In India, many communities continue to rely on rivers for direct consumption. However, rivers in India face high levels of pollution and have been found to be one of the world’s most polluted bodies of water ([Harry Blair, 2023](https://www.sciencedirect.com/science/article/pii/S2772655X23000265)).
 Today, many communities across India have lost interest in their rivers, taking for granted its benefits. One contributing factor, TBS asserts, is a lack of data on the rivers. Desk research on rivers across India only brings up superficial information on national and state-level rivers and insufficient information on smaller water bodies. Without information to illuminate the challenges faced by these rivers, and their ongoing deterioration, communities are less inclined to actively participate in its conservation.
