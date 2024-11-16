@@ -86,9 +86,7 @@ The pilot project focused on improving existing data of local water bodies and s
 <div style="text-align: center;">
     <img src="/uploads/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>Map by: <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - This map analyses the accessibility of water bodies and water points to settlements within the Sherni River Basin. By overlaying village and hamlet locations with a 500 meter (minimum humanitarian standards) and 1000-meter buffer, the map visualizes the proximity of water sources to these communities.</span>
-        <br>
-        <span>This spatial analysis provides insights into households' ease in accessing water, aiding local actors in making informed decisions on potential water infrastructural gaps and priority locations to tackle.</span>
+        <span>Map by: <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - This map analyses the accessibility of water bodies and water points to settlements within the Sherni River Basin [...]</span>
     </div>
 </div>
 
