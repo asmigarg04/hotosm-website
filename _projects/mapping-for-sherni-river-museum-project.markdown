@@ -45,19 +45,20 @@ Tools:
 
 # Background/ Problem Statement
 <br>
+<br>
 Rivers are important ecosystems that contribute to our economic development, food security, and well-being; with nearly 2 billion people relying on rivers for their drinking water ([UNEP, 2022](https://www.unep.org/news-and-stories/story/four-reasons-protect-rivers)). In India, many communities continue to rely on rivers for direct consumption. However, rivers in India face high levels of pollution and have been found to be one of the world’s most polluted bodies of water ([Harry Blair, 2023](https://www.sciencedirect.com/science/article/pii/S2772655X23000265)).
 Today, many communities across India have lost interest in their rivers, taking for granted its benefits. One contributing factor, TBS asserts, is a lack of data on the rivers. Desk research on rivers across India only brings up superficial information on national and state-level rivers and insufficient information on smaller water bodies. Without information to illuminate the challenges faced by these rivers, and their ongoing deterioration, communities are less inclined to actively participate in its conservation.
 Moreover, rivers are complex ecosystems that are intricately interconnected with communities across India. It is important to capture a longitudinal study of the rivers, i.e. collect and analyse the data over long periods of time. Unfortunately, data collection and analysis of these rivers today is fragmented and limited. While communities are best placed to contribute to and maintain the database, they lack the necessary skills to support this.
-
-<img src="/uploads/sherni-river-museum-2023.png" alt="Dried Riverbed">
-<span style="font-size: 0.8em; line-height: 1.2;">
-    <font color="#778899">
-        <a> Photo by: </a>
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span><a> Photo by: </a>
         <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - 
         Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management. 
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
-    </font>
-</span>
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></span>
+    </div>
+</div>
 
 # Approach
 <br>
@@ -83,6 +84,7 @@ Fig. 1 OSM water bodies data with water retaining structures built by TBS.
 <br>
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
 <br>
+
 <div style="text-align: center;">
     <img src="/uploads/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
