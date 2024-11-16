@@ -30,6 +30,13 @@ Tools:
 
 > Since 2023, Tarun Bharat Sangh (TBS) and Open Mapping Hub - Asia Pacific (AP Hub) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. The River Museum will be accessible globally and will share information on the local rivers; and the goal was to eventually scale it to include other rivers across the country, as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
 <br>
+<div style="text-align: center;">
+    <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Front page of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
+    </div>
+</div>
+<br>
 # Background/ Problem Statement
 <br>
 <br>
@@ -77,12 +84,15 @@ Without representation on maps, these “invisible” rivers and their communiti
 <br>
 # Outcome and Impact
 <br>
+<br>
 <div style="text-align: center;">
     <img src="/uploads/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Map by: <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - This map analyses the accessibility of water bodies and water points to settlements within the Sherni River Basin [...]</span>
     </div>
 </div>
+<br>
+<br>
 <br>
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
 <br>
@@ -121,14 +131,6 @@ Additionally, in the short-term, TBS is able to leverage the insights developed 
 <br>
 The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g. the national government) and galvanise action.
 <br>
-
-
-<div style="text-align: center;">
-    <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Front page of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
-    </div>
-</div>
 
 # Media
 Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.youtube.com/watch?v=gT72mJwUWww)
