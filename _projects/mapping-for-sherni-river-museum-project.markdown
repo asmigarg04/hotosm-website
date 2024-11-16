@@ -29,18 +29,7 @@ Tools:
 ---
 
 > Since 2023, Tarun Bharat Sangh (TBS) and Open Mapping Hub - Asia Pacific (AP Hub) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. The River Museum will be accessible globally and will share information on the local rivers; and the goal was to eventually scale it to include other rivers across the country, as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
-
-#test
-
-<div style="text-align: center;">
-  <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="60%" height="300"></iframe>
-</div>
-
-
-#test
-
-
-
+<br>
 # Background/ Problem Statement
 <br>
 <br>
@@ -78,9 +67,14 @@ Without representation on maps, these “invisible” rivers and their communiti
    AP Hub held a workshop to discuss possible use cases of the OSM data and the River Museum with TBS. The updated OSM data and the River Museum were also symbolically handed over to the local stakeholders.
 <br>
 <br>
-![](/uploads/Map1_AP-sherni-river-museum-2023.png)
-Fig. 1 OSM water bodies data with water retaining structures built by TBS.
 
+<div style="text-align: center;">
+    <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="75%" height="300"></iframe>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Footnote: Using Mapillary for field mapping was crucial in creating the project's visual data bank on rivers. It not only provided high-quality imagery but also engaged the community in documenting their local environment, fostering a sense of ownership and collaboration in conservation efforts.
+    </div>
+</div>
+<br>
 # Outcome and Impact
 <br>
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
