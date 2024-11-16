@@ -31,7 +31,7 @@ Tools:
 > Since 2023, Tarun Bharat Sangh (TBS) and Open Mapping Hub - Asia Pacific (AP Hub) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. The River Museum will be accessible globally and will share information on the local rivers; and the goal was to eventually scale it to include other rivers across the country, as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
+    <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Front page of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
     </div>
