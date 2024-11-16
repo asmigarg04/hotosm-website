@@ -47,7 +47,9 @@ Tools:
 <br>
 <br>
 Rivers are important ecosystems that contribute to our economic development, food security, and well-being; with nearly 2 billion people relying on rivers for their drinking water ([UNEP, 2022](https://www.unep.org/news-and-stories/story/four-reasons-protect-rivers)). In India, many communities continue to rely on rivers for direct consumption. However, rivers in India face high levels of pollution and have been found to be one of the world’s most polluted bodies of water ([Harry Blair, 2023](https://www.sciencedirect.com/science/article/pii/S2772655X23000265)).
+
 Today, many communities across India have lost interest in their rivers, taking for granted its benefits. One contributing factor, TBS asserts, is a lack of data on the rivers. Desk research on rivers across India only brings up superficial information on national and state-level rivers and insufficient information on smaller water bodies. Without information to illuminate the challenges faced by these rivers, and their ongoing deterioration, communities are less inclined to actively participate in its conservation.
+
 Moreover, rivers are complex ecosystems that are intricately interconnected with communities across India. It is important to capture a longitudinal study of the rivers, i.e. collect and analyse the data over long periods of time. Unfortunately, data collection and analysis of these rivers today is fragmented and limited. While communities are best placed to contribute to and maintain the database, they lack the necessary skills to support this.
 <br>
 <br>
