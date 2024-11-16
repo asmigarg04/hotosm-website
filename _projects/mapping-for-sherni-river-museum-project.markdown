@@ -121,15 +121,14 @@ Additionally, in the short-term, TBS is able to leverage the insights developed 
 <br>
 The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g. the national government) and galvanise action.
 <br>
+
+
 <div style="text-align: center;">
-    <div style="display: inline-block;">
-        <script src="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html"></script>
-    </div>
+    <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Fig. 7. Frontpage of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
+        Front page of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
     </div>
 </div>
-
 
 # Media
 Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.youtube.com/watch?v=gT72mJwUWww)
