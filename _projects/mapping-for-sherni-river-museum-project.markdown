@@ -104,16 +104,26 @@ In the long-term, it is expected that the mapped and validated data will serve a
 Additionally, in the short-term, TBS is able to leverage the insights developed by AP Hub with the data on accessibility of the water retaining structures in the Sherni River Basin (see fig. below). The insights will help TBS inform their decision-making processes by assessing the impact of their interventions and to identify priority areas to develop their next retaining structure.
 <br>
 <div style="text-align: center;">
-    <script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
+    <div style="display: inline-block;">
+        <script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
+    </div>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Water accessibility studies to the settlement, schools, and places of worship.
+        Fig. 7. Frontpage of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
     </div>
 </div>
+
 <br>
 The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g. the national government) and galvanise action.
 <br>
-<script src="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html"></script>
-Fig. 7. Frontpage of the [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) on the browser.
+<div style="text-align: center;">
+    <div style="display: inline-block;">
+        <script src="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html"></script>
+    </div>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Fig. 7. Frontpage of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
+    </div>
+</div>
+
 
 # Media
 Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.youtube.com/watch?v=gT72mJwUWww)
