@@ -84,14 +84,12 @@ Without representation on maps, these “invisible” rivers and their communiti
 <br>
 # Outcome and Impact
 <br>
-<br>
 <div style="text-align: center;">
     <img src="/uploads/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Map by: <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - This map analyses the accessibility of water bodies and water points to settlements within the Sherni River Basin [...]</span>
     </div>
 </div>
-<br>
 <br>
 <br>
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
