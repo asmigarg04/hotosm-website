@@ -32,8 +32,6 @@ Tools:
 
 #test
 
-<script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
-
 <div style="text-align: center;">
   <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="60%" height="300"></iframe>
 </div>
@@ -104,12 +102,20 @@ Fig. 2. OSM Data growth and changes between Oct 2023 and June 2024 (left:[ohsome
 Fig. 3. KPIs achieved during the project.
 In the long-term, it is expected that the mapped and validated data will serve as key basemaps that can support the local communities in monitoring the health of the rivers and the impact of river conservation efforts. In the short-term, the data will help convey key geo-coded information on these water bodies, and support TBS in advocating the importance of protecting these previously uncharted water bodies to stakeholders across India.
 Additionally, in the short-term, TBS is able to leverage the insights developed by AP Hub with the data on accessibility of the water retaining structures in the Sherni River Basin (see fig. below). The insights will help TBS inform their decision-making processes by assessing the impact of their interventions and to identify priority areas to develop their next retaining structure.
-![](/uploads/)
-![](/uploads/)![](/uploads/)
-Fig. 4, 5, and 6. Water accessibility studies to the settlement, schools, and places of worship.
+<br>
+<div style="text-align: center;">
+    <script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Water accessibility studies to the settlement, schools, and places of worship.
+    </div>
+</div>
+<br>
 The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g. the national government) and galvanise action.
-![](/uploads/)
+<br>
+<script src="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html"></script>
 Fig. 7. Frontpage of the [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) on the browser.
+
 # Media
 Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.youtube.com/watch?v=gT72mJwUWww)
+
 Storymap - [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html)
