@@ -86,7 +86,12 @@ Fig. 1 OSM water bodies data with water retaining structures built by TBS.
 
 # Outcome and Impact
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
-![](/uploads/Map1_AP-sherni-river-museum-2023.png)
+<div style="text-align: center;">
+  <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="60%" height="300"></iframe>
+</div>
+<div>
+    <img src="/uploads/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 60%; height: auto;">
+</div>
 <span style="font-size: 0.8em; line-height: 1.2;">
     <font color="#778899">
         <a>Map by: </a>
