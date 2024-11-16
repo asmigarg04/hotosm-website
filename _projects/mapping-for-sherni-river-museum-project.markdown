@@ -93,14 +93,28 @@ The pilot project focused on improving existing data of local water bodies and s
     </div>
 </div>
 
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 0 10px;">
+        <img src="/uploads/ohsome1_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 1" style="width: 45%; height: auto;">
+    </div>
+    <div style="display: inline-block; margin: 0 10px;">
+        <img src="/uploads/ohsome2_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 2" style="width: 45%; height: auto;">
+    </div>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px; clear: both;">
+        Fig. 2. OSM Data growth and changes between Oct 2023 and June 2024 (left: <a href="https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=%28water%3D*+or+waterway%3D*%29+and+%28type%3Away+or+type%3Arelation%29&measure=perimeter&bcircles=77.3029417%2C26.6422145%2C10575.9700429">ohsome, 2024</a>; right: <a href="https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=building%3D*+and+%28type%3Away+or+type%3Arelation%29&measure=count&bcircles=77.3029417%2C26.6422145%2C10575.9700429">ohsome, 2024</a>).
+    </div>
+</div>
 
-#clean this section! 
-
-![]/uploads/)![](/uploads/)
-Fig. 2. OSM Data growth and changes between Oct 2023 and June 2024 (left:[ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=%28water%3D*+or+waterway%3D*%29+and+%28type%3Away+or+type%3Arelation%29&measure=perimeter&bcircles=77.3029417%2C26.6422145%2C10575.9700429); right:[ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=building%3D*+and+%28type%3Away+or+type%3Arelation%29&measure=count&bcircles=77.3029417%2C26.6422145%2C10575.9700429))
-![](/uploads/)
-Fig. 3. KPIs achieved during the project.
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/dashboard_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Fig. 3. KPIs achieved during the project.
+    </div>
+</div>
+<br>
 In the long-term, it is expected that the mapped and validated data will serve as key basemaps that can support the local communities in monitoring the health of the rivers and the impact of river conservation efforts. In the short-term, the data will help convey key geo-coded information on these water bodies, and support TBS in advocating the importance of protecting these previously uncharted water bodies to stakeholders across India.
+
 Additionally, in the short-term, TBS is able to leverage the insights developed by AP Hub with the data on accessibility of the water retaining structures in the Sherni River Basin (see fig. below). The insights will help TBS inform their decision-making processes by assessing the impact of their interventions and to identify priority areas to develop their next retaining structure.
 <br>
 <div style="text-align: center;">
