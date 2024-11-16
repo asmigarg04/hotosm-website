@@ -66,17 +66,27 @@ Moreover, rivers are complex ecosystems that are intricately interconnected with
 </span>
 
 # Approach
-Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. AP Hub and TBS co-designed and implemented the following workflow:
-1 Remote Mapping & Validation Remote mapping and validation campaigns were launched on Humanitarian OpenStreet Map (HOT)’s Tasking Manager (TM) to map the areas of interest. This will serve as a foundation to evaluate existing needs, gaps, and challenges with local stakeholders.
-2 Co-creation Planning with TBS AP Hub held co-creation planning exercises with TBS to better understand the state of map data in the region, the vision TBS has for the River Museum, the data TBS is interested to capture; and co-created a localised plan for open-mapping.
-3 Field Mapping with TBS AP Hub’s network of local OM Gurus are reliable OSM experts that were trained in open-mapping; and were key facilitators of the Nepal Project on the ground. This project gave exposure to local stakeholder on how they can work with the Gurus to develop local open-mapping initiatives.
-4 Use Case Discussion and Handover Workshop AP Hub held a workshop to discuss possible use cases of the OSM data and the River Museum with TBS. The updated OSM data and the River Museum was also symbolically handed over to the local stakeholders.
 
-![](/uploads/3.png.png)
+Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. AP Hub and TBS co-designed and implemented the following workflow:
+
+1. **Remote Mapping & Validation**  
+   Remote mapping and validation campaigns were launched on Humanitarian OpenStreet Map (HOT)’s Tasking Manager (TM) to map the areas of interest. This will serve as a foundation to evaluate existing needs, gaps, and challenges with local stakeholders.
+
+2. **Co-creation Planning with TBS**  
+   AP Hub held co-creation planning exercises with TBS to better understand the state of map data in the region, the vision TBS has for the River Museum, the data TBS is interested to capture; and co-created a localized plan for open-mapping.
+
+3. **Field Mapping with TBS**  
+   AP Hub’s network of local OM Gurus are reliable OSM experts that were trained in open-mapping; and were key facilitators of the Nepal Project on the ground. This project gave exposure to local stakeholders on how they can work with the Gurus to develop local open-mapping initiatives.
+
+4. **Use Case Discussion and Handover Workshop**  
+   AP Hub held a workshop to discuss possible use cases of the OSM data and the River Museum with TBS. The updated OSM data and the River Museum were also symbolically handed over to the local stakeholders.
+
+![](/uploads/Map1_AP-sherni-river-museum-2023.png)
 Fig. 1 OSM water bodies data with water retaining structures built by TBS.
+
 # Outcome and Impact
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
-![](/uploads/Map1_AP-sherni-river-museum-2023.png)![](/uploads/3.png)
+![](/uploads/Map1_AP-sherni-river-museum-2023.png)
 <span style="font-size: 0.8em; line-height: 1.2;">
     <font color="#778899">
         <a>Map by: </a>
