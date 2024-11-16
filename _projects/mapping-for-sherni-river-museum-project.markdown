@@ -36,7 +36,7 @@ Tools:
         Front page of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum storymap</a> on the browser. This visual showcases the extensive data collection efforts that took place over several months, combining field research, community mapping, and remote sensing to gather thousands of images, stories, and other data points.
     </div>
 </div>
-<br>
+
 # Background/ Problem Statement
 <br>
 <br>
