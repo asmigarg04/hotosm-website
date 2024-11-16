@@ -94,13 +94,9 @@ Without representation on maps, these “invisible” rivers and their communiti
 <br>
 The pilot project focused on improving existing data of local water bodies and settlements in the region. Through the project, the region has seen an increase of 419% increase in water bodies OSM data and 574500% increase in buildings OSM data, through the mapping and validation efforts led by AP Hub (see fig. below).
 <br>
-<div style="text-align: center;">
-    <div style="display: inline-block; margin: 0 10px;">
-        <img src="/uploads/ohsome1_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 1" style="width: 45%; height: auto;">
-    </div>
-    <div style="display: inline-block; margin: 0 10px;">
-        <img src="/uploads/ohsome2_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 2" style="width: 45%; height: auto;">
-    </div>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="/uploads/ohsome1_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 1" style="width: 45%; height: auto; margin: 0 10px;">
+    <img src="/uploads/ohsome2_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 2" style="width: 45%; height: auto; margin: 0 10px;">
 </div>
 <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
     OSM Data growth and changes between Oct 2023 and June 2024 (left: <a href="https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=%28water%3D*+or+waterway%3D*%29+and+%28type%3Away+or+type%3Arelation%29&measure=perimeter&bcircles=77.3029417%2C26.6422145%2C10575.9700429">ohsome, 2024</a>; right: <a href="https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=building%3D*+and+%28type%3Away+or+type%3Arelation%29&measure=count&bcircles=77.3029417%2C26.6422145%2C10575.9700429">ohsome, 2024</a>).
