@@ -50,6 +50,7 @@ Rivers are important ecosystems that contribute to our economic development, foo
 Today, many communities across India have lost interest in their rivers, taking for granted its benefits. One contributing factor, TBS asserts, is a lack of data on the rivers. Desk research on rivers across India only brings up superficial information on national and state-level rivers and insufficient information on smaller water bodies. Without information to illuminate the challenges faced by these rivers, and their ongoing deterioration, communities are less inclined to actively participate in its conservation.
 Moreover, rivers are complex ecosystems that are intricately interconnected with communities across India. It is important to capture a longitudinal study of the rivers, i.e. collect and analyse the data over long periods of time. Unfortunately, data collection and analysis of these rivers today is fragmented and limited. While communities are best placed to contribute to and maintain the database, they lack the necessary skills to support this.
 <br>
+<br>
 <div style="text-align: center;">
     <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
