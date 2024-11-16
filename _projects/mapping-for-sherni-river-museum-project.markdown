@@ -34,13 +34,6 @@ Tools:
 
 <script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
 
-<iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="100%" height="500"></iframe>
-
-<embed src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" width="100%" height="500">
-
-<embed src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" width="100%" height="500">
-
-
 <div style="text-align: center;">
   <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="60%" height="300"></iframe>
 </div>
