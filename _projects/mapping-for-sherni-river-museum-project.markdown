@@ -78,7 +78,7 @@ Without representation on maps, these “invisible” rivers and their communiti
 <div style="text-align: center;">
     <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="75%" height="300"></iframe>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Footnote: Using Mapillary for field mapping was crucial in creating the project's visual data bank on rivers. It not only provided high-quality imagery but also engaged the community in documenting their local environment, fostering a sense of ownership and collaboration in conservation efforts.
+        Using Mapillary for field mapping was crucial in creating the project's visual data bank on rivers. It not only provided high-quality imagery but also engaged the community in documenting their local environment, fostering a sense of ownership and collaboration in conservation efforts.
     </div>
 </div>
 <br>
@@ -118,7 +118,7 @@ Additionally, in the short-term, TBS is able to leverage the insights developed 
         <script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
     </div>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Fig. 7. Frontpage of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum</a> on the browser.
+        Water accessibility studies to the settlement, schools, and places of worship
     </div>
 </div>
 
