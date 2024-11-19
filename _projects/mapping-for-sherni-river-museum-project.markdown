@@ -105,7 +105,7 @@ This pilot project focused on improving existing data of local water bodies and 
 </div>
 <br>
 <br>
-In the long-term, it is expected that the mapped and validated data will serve as key basemaps that can support the local communities in monitoring the health of the rivers and the impact of river conservation efforts. In the short-term, the data will help convey key geo-coded information on these water bodies, and support TBS in advocating the importance of protecting these previously uncharted water bodies to stakeholders across India.
+In the long term, it is expected that the mapped and validated data will serve as key base maps that can support the local communities in monitoring the health of the rivers and the impact of river conservation efforts. In the short term, the data will help convey key geo-coded information on these water bodies and support TBS in advocating the importance of protecting these previously uncharted water bodies to stakeholders across India.
 <br>
 <div style="text-align: center;">
     <img src="/uploads/dashboard_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
@@ -114,19 +114,19 @@ In the long-term, it is expected that the mapped and validated data will serve a
     </div>
 </div>
 <br>
-Additionally, in the short-term, TBS is able to leverage the insights developed by AP Hub with the data on accessibility of the water retaining structures in the Sherni River Basin (see fig. below). The insights will help TBS inform their decision-making processes by assessing the impact of their interventions and to identify priority areas to develop their next retaining structure.
+Additionally, in the short term, TBS is able to leverage the insights developed by AP Hub with the data on the accessibility of the water retaining structures in the Sherni River Basin (see fig. below). The insights will help TBS inform its decision-making processes by assessing the impact of its interventions and identifying priority areas to develop its next retaining structure.
 <br>
 <div style="text-align: center;">
     <div style="display: inline-block;">
         <script src="https://zoomhub.net/Gr8p9.js?width=535px&height=auto&border=none"></script>
     </div>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Water accessibility studies to the settlement, schools, and places of worship
+        Water accessibility studies to the settlements, schools, and places of worship
     </div>
 </div>
 
 <br>
-The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g. the national government) and galvanise action.
+The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html) will also be an important resource for TBS to convey local knowledge of the water bodies, such as cultural practices and history, and share it extensively with external stakeholders (e.g., the national government) and galvanize action.
 <br>
 
 # Media
