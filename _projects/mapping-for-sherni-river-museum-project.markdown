@@ -1,7 +1,6 @@
 ---
 title: Mapping for Sherni River Museum Project
 date: 2024-11-14 20:50:00 Z
-published: false
 Project Summary Text: Through the Open-Mapping for Social Enterprises (OMSE) Project,
   HOT's Open Mapping Hub - Asia-Pacific is supporting social enterprises across the
   Asia-Pacific region in using open map data to improve their operations and decision-making
