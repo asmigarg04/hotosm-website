@@ -74,7 +74,7 @@ operationally useful, such as high-resolution imagery from satellites or drones,
 
 ## Looking for more information?
 
-The WNA Hub has released a comprehensive report covering the outcomes of this disaster response and more detailed information on the available datasets: [Read here.](https://drive.google.com/file/d/10w9HCpRJ4aarzBYmFgJ-aqXrRE_zwXMI/view)
+The WNA Hub has released a comprehensive report covering the outcomes of this disaster response, with more detailed information on the available datasets: [Read here.](https://drive.google.com/file/d/10w9HCpRJ4aarzBYmFgJ-aqXrRE_zwXMI/view)
 
 *Cover image: [Morocco before the Earthquake](https://www.flickr.com/photos/42027960@N04/53388094764/in/photolist-6e1UMM-8F3adc-DbgvSF-No1Dv3-6Xq43q-2pHJsHk-2aBVYR-2pHJsG3-8BCjqf-a9qjH-a9qiB-Nqxr1Z-2aBW1B-eVXav8-a9qgF-2g42u2-4eJfYg-2pkHkuq-8azFHD-a9qfH-2p1KD5z-2g43vB-2pSFktF-2pSA8aA-2pSNc7p-2p1Rc76-2pSL5nh-2p2f2yg-2p2i481-2p2j3DG-2p99p3q-2pStctw-2p9a768-2p2pZxq-8BzE42-2pkJBdu-2p2qi4k-2p2nKza-2pkJB5t-2pkBEmK-2p2jHYM-2p2qiGE-2pkHkjk-2pkJBdz-2p2nK3o-8BCPdm-2p2pYD1-2pkHWPu-2p2jHiD-2pkHWyu) by 
 [richard evea](https://www.flickr.com/photos/42027960@N04/), CC BY-SA 2.0.*
