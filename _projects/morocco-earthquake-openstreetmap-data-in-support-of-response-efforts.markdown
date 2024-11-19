@@ -9,7 +9,7 @@ Project Summary Text: "In the early hours of the Morocco Earthquake, the Humanit
   and the local OSM community in Morocco coordinated the mapping efforts, directing
   volunteers to map priority areas alongside other stakeholders. \n"
 Feature Image: "/uploads/53388094764_a0d3053666_k.jpg"
-Is image top aligned: true
+Is image top aligned: false
 Country:
 - Morocco
 Impact Area:
