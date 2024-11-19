@@ -54,6 +54,9 @@ data.
 The detailed dataset of damaged roads, created by OSM volunteers
 during the response phase, was able to support the ground effort. Source data for the mapping was provided by MAXAR through their Open Data Program. Additional support for the road mapping was provided by [Digital Egypt](https://wiki.openstreetmap.org/wiki/DigitalEgypt), to ensure data quality.
 
+![MOROCCO EARTHQUAKE_road damaged-b0ab9a.png](/uploads/MOROCCO%20EARTHQUAKE_road%20damaged-b0ab9a.png)
+*Map showing the location of buildings and damaged roads, which were useful for other humanitarian organizations providing support on the ground.*
+
 The OSM data proved immensely valuable for [World Central Kitchen (WCK)](https://wck.org/relief/morocco-earthquake-2023), an organization that provides food for communities facing disaster. The data was very useful for locating small towns and villages, planning routes, and even estimating travel times based on vehicles and road conditions.
 
 > "Many of the hardest hit places were small villages in the mountains, not always reflected on other maps, so OSM was critical to understand smaller populated places and to be able to map places in various languages to engage both international and local team members."
