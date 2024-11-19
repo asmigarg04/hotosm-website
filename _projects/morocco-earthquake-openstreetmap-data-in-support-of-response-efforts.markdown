@@ -1,7 +1,6 @@
 ---
 title: 'Morocco Earthquake: OpenStreetMap data in support of response efforts'
 date: 2024-11-14 19:59:00 Z
-published: false
 Project Summary Text: "In the early hours of the Morocco Earthquake, the Humanitarian
   OpenStreetMap Team (HOT) and its regional Open Mapping Hub in West and Northern
   Africa (WNAH) identified urgent mapping needs and mobilized OpenStreetMap (OSM)
