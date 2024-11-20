@@ -5,7 +5,7 @@ Project Summary Text: 'Le Projet Ruwa (Rural Water Access) Niger : Cartographier
   à l''eau dans la région du Sahel.
 
 '
-Feature Image: "/uploads/SlidesRuwa.JPG"
+Feature Image: "/uploads/WNAH-Ruwa.png"
 Country:
 - Niger
 Impact Area:
