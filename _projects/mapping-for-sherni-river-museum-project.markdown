@@ -84,7 +84,6 @@ Field mapping was conducted in partnership with the AP Hub’s Open Mapping Guru
     </div>
 </div>
 <br>
-<br>
 ### 4. Use Case Discussion and Handover Workshop
 The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. We began building the narrative of the story map from the collected geospatial data and qualitative data from village FGDs, utilizing QGIS for accessibility analysis. The updated OSM data, which reflects the village's agricultural practices, water access points, and cultural practices surrounding water, were symbolically handed over to the local stakeholders. This collaborative effort aims to enhance the community's ability to advocate for their conservation needs and improve overall prosperity.
 <br>
