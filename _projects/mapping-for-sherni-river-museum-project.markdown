@@ -78,7 +78,7 @@ Field mapping was conducted in partnership with the AP Hub’s Open Mapping Guru
 - **Water Points and Water Bodies**: [View mapped water points](https://tinyurl.com/sherniwater)
 <br>
 <div style="text-align: center;">
-    <iframe src="/uploads/sherni-stats.png" frameborder="0" width="75%" height="300"></iframe>
+    <img src="/uploads/sherni-stats.png" alt="Dashboard accounting mapped features during the project." style="width: 75%; height: auto;"/>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Dashboard accounting mapped features during the project. 
     </div>
