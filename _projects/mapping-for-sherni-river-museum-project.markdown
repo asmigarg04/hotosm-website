@@ -57,21 +57,28 @@ Thus, it is important to capture a longitudinal study of the rivers in India, i.
     </div>
 </div>
 
-# Mapping India's Rivers
+# Mapping India’s Rivers: A Community-Driven Approach
 <br>
-Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. To overcome this challenge, the AP Hub and TBS co-designed and implemented the following workflow:
+Without representation on maps, many “invisible” rivers and their communities struggle to gain support for conservation efforts. To address this challenge, the AP Hub and Tarun Bharat Sang (TBS) co-designed and implemented the following workflow:
 
-1. **Remote Mapping & Validation**  
-   Remote mapping and validation campaigns were launched on [the HOT Tasking Manager (TM)](https://tasks.hotosm.org/) to map the areas of interest. This served as a foundation to evaluate existing needs, gaps, and challenges with local stakeholders.
+Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. To overcome this challenge, the AP Hub and [TBS](https://tarunbharatsangh.in/) co-designed and implemented the following workflow:
 
-2. **Co-creation Planning with TBS**  
-   The AP Hub held co-creation planning exercises with TBS to better understand the state of map data in the region, the vision TBS had for the River Museum, and the data TBS was interested in capturing. With this information, they co-created a localized plan for open-mapping.
+### 1. Remote Mapping & Validation
+Remote mapping and validation campaigns were launched on the [HOT Tasking Manager](https://www.hotosm.org/projects/mapping-for-sherni-river-museum-project/) to map the areas of interest, including the Sherni River and its surrounding communities. We used TM to map buildings and water bodies, which were then validated in the field by two Open Mapping [Gurus](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Open_Mapping_Guru_Project) guided by our partner, Tarun Bharat Sang (TBS). This served as a foundation to evaluate existing needs, gaps, and challenges with local stakeholders.
 
-3. **Field Mapping with TBS**  
-   Field mapping was done in partnership with the AP Hub’s Open Mapping Gurus (OM Gurus), a network of local and reliable OSM experts that were trained in open mapping and were key facilitators of the [AP's Nepal Road Network Validation Project](https://www.hotosm.org/projects/nepal-road-network-validation/) on the ground. This project gave exposure to local stakeholders on how they can work with the Gurus to develop local open mapping initiatives.
+### 2. Co-creation Planning with TBS
+The AP Hub held co-creation planning exercises with TBS to better understand the state of map data in the region, the vision TBS had for the River Museum, and the data TBS was interested in capturing. This included insights into the village's history, water access, sanitation practices, agricultural activities, and cultural significance of water. With this information, they co-created a localized plan for open-mapping.
 
-4. **Use Case Discussion and Handover Workshop**  
-   The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. The updated OSM data and the River Museum were also symbolically handed over to the local stakeholders.
+### 3. Field Mapping with TBS
+Field mapping was conducted in partnership with the AP Hub’s Open Mapping Gurus (OM Gurus), who used OSMTracker for Android to map critical lifeline facilities and Mapillary for collecting street-level images. The field plan was provided by TBS, and while using FMTM could have helped organize the collection, time constraints limited training for the Gurus. After the field data collection, the Gurus mapped public facilities to OSM while the AP Hub validated their uploads. This project provided exposure to local stakeholders on how they can collaborate with the Gurus to develop local open mapping initiatives. The mapping efforts highlighted key features such as:
+
+- **Buildings**: [View mapped buildings](https://tinyurl.com/shernibuildings)
+- **Schools**: [View mapped schools](https://tinyurl.com/shernischools)
+- **Places of Worship**: [View mapped places of worship](https://tinyurl.com/sherniplacesofworship)
+- **Water Points and Water Bodies**: [View mapped water points](https://tinyurl.com/sherniwater)
+
+### 4. Use Case Discussion and Handover Workshop
+The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. We began building the narrative of the story map from the collected geospatial data and qualitative data from village FGDs, utilizing QGIS for accessibility analysis. The updated OSM data, which reflects the village's agricultural practices, water access points, and cultural practices surrounding water, were symbolically handed over to the local stakeholders. This collaborative effort aims to enhance the community's ability to advocate for their conservation needs and improve overall prosperity.
 <br>
 <br>
 
