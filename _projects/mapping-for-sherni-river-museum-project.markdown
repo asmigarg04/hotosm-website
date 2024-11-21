@@ -59,14 +59,6 @@ Thus, it is important to capture a longitudinal study of the rivers in India, i.
 
 # Mapping India’s Rivers: A Community-Driven Approach
 <br>
-<br>
-<div style="text-align: center;">
-    <img src="/uploads/sherni-stats.png" alt="Dashboard accounting mapped features during the project." style="width: 75%; height: auto;"/>
-    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Dashboard accounting mapped features during the project. 
-    </div>
-</div>
-<br>
 Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. To overcome this challenge, the AP Hub and TBS co-designed and implemented the following workflow:
 
 ### 1. Remote Mapping & Validation
@@ -83,15 +75,23 @@ Field mapping was conducted in partnership with the AP Hub’s Open Mapping Guru
 - **Places of Worship**: [View mapped places of worship](https://tinyurl.com/sherniplacesofworship)
 - **Water Points and Water Bodies**: [View mapped water points](https://tinyurl.com/sherniwater)
 <br>
-### 4. Use Case Discussion and Handover Workshop
-The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. We began building the narrative of the story map from the collected geospatial data and qualitative data from village FGDs, utilizing QGIS for accessibility analysis. The updated OSM data, which reflects the village's agricultural practices, water access points, and cultural practices surrounding water, were symbolically handed over to the local stakeholders. This collaborative effort aims to enhance the community's ability to advocate for their conservation needs and improve overall prosperity.
-<br>
 <br>
 
 <div style="text-align: center;">
     <iframe src="https://www.mapillary.com/embed?map_style=OpenStreetMap&image_key=1113037466440409&x=0.4999999999999999&y=0.5&style=split" frameborder="0" width="75%" height="300"></iframe>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Using Mapillary for field mapping was crucial in creating the project's visual data bank on rivers. It not only provided high-quality imagery but also engaged the community in documenting their local environment, fostering a sense of ownership and collaboration in conservation efforts.
+    </div>
+</div>
+<br>
+<br>
+### 4. Use Case Discussion and Handover Workshop
+The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. We began building the narrative of the story map from the collected geospatial data and qualitative data from village FGDs, utilizing QGIS for accessibility analysis. The updated OSM data, which reflects the village's agricultural practices, water access points, and cultural practices surrounding water, were symbolically handed over to the local stakeholders. This collaborative effort aims to enhance the community's ability to advocate for their conservation needs and improve overall prosperity.
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/sherni-stats.png" alt="Dashboard accounting mapped features during the project." style="width: 75%; height: auto;"/>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Dashboard accounting mapped features during the project. 
     </div>
 </div>
 <br>
