@@ -28,7 +28,7 @@ Tools:
 - link: https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html
 ---
 
-> Since 2023, the environmental non-profit Tarun Bharat Sangh (TBS) and [HOT's Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. This "River Museum" aims to share information on the local rivers and to be accessible globally, with the goal to eventually scale it to include other rivers across the country as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
+> Since 2023, the environmental non-profit [Tarun Bharat Sangh](https://tarunbharatsangh.in/) (TBS) and [HOT's Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) collaborated with local communities on a pilot to use OpenStreetMap (OSM) to develop an open-source database of the Sherni River Basin, in Rajasthan, India. This "River Museum" aims to share information on the local rivers and to be accessible globally, with the goal to eventually scale it to include other rivers across the country as part of the [River Mapping for River Museum](https://wiki.openstreetmap.org/wiki/River_Mapping_For_River_Museum) project.
 <br>
 <div style="text-align: center;">
     <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 75%; height: auto;">
@@ -61,7 +61,7 @@ Thus, it is important to capture a longitudinal study of the rivers in India, i.
 <br>
 Without representation on maps, many “invisible” rivers and their communities struggle to gain support for conservation efforts. To address this challenge, the AP Hub and Tarun Bharat Sang (TBS) co-designed and implemented the following workflow:
 
-Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. To overcome this challenge, the AP Hub and [TBS](https://tarunbharatsangh.in/) co-designed and implemented the following workflow:
+Without representation on maps, these “invisible” rivers and their communities will be unable to garner support from the region and India to aid their conservation efforts. To overcome this challenge, the AP Hub and TBS co-designed and implemented the following workflow:
 
 ### 1. Remote Mapping & Validation
 Remote mapping and validation campaigns were launched on the [HOT Tasking Manager](https://www.hotosm.org/projects/mapping-for-sherni-river-museum-project/) to map the areas of interest, including the Sherni River and its surrounding communities. We used TM to map buildings and water bodies, which were then validated in the field by two Open Mapping [Gurus](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Open_Mapping_Guru_Project) guided by our partner, Tarun Bharat Sang (TBS). This served as a foundation to evaluate existing needs, gaps, and challenges with local stakeholders.
