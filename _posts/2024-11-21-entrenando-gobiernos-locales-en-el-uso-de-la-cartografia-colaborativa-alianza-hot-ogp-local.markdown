@@ -50,6 +50,8 @@ Usando KoboToolbox para los cuestionarios, Qgis para generar los mapas y anális
 
 ## **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2oQmA1zAVn8zUJqbxAWkSqEKVnJslpX_jKICFnq7iY7VrYmfBJpJtXIcfMS4DQmjBN633KN7B8HrDZAtB7_i-jfEuoMnj7w0KRjycdkIJK-34BV_Gwmgkc4Q2sjO7ISXPCUgF?key=C231p_RmKrjq-NE_DguJtw)**
 
+*Imagen: Recolección de información socioeconómica a través de herramientas de mapeo abierto.*
+
 ## Chile, Municipalidad de Maipú
 
 Se necesitaba un levantamiento de datos finos de las áreas verdes del Barrio de Sol Poniente, Maipú, para mejorar su calidad y analizar sus efectos ante posibles islas de calor, un paso necesario para diseñar e implementar medidas de adaptación efectivas y equitativas, en el resto de la ciudad en el futuro.
