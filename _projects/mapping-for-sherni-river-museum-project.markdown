@@ -87,6 +87,7 @@ Field mapping was conducted in partnership with the AP Hub’s Open Mapping Guru
 ### 4. Use Case Discussion and Handover Workshop
 The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. We began building the narrative of the story map from the collected geospatial data and qualitative data from village FGDs, utilizing QGIS for accessibility analysis. The updated OSM data, which reflects the village's agricultural practices, water access points, and cultural practices surrounding water, were symbolically handed over to the local stakeholders. This collaborative effort aims to enhance the community's ability to advocate for their conservation needs and improve overall prosperity.
 <br>
+<br>
 <div style="text-align: center;">
     <img src="/uploads/sherni-stats.png" alt="Dashboard accounting mapped features during the project." style="width: 75%; height: auto;"/>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
@@ -148,7 +149,7 @@ Storymap - [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d
 
 <div style="font-size: smaller; color: grey;">
 
-### Data Usage*:
+### Data Usage: *
 Please use this data responsibly and ethically. Proper citation of the OpenStreetMap Contributors is required when using this data for publications or presentations.
 
 ### Disclaimer:
