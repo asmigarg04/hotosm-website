@@ -70,10 +70,10 @@ The AP Hub held co-creation planning exercises with TBS to better understand the
 ### 3. Field Mapping with TBS
 Field mapping was conducted in partnership with the AP Hub’s Open Mapping Gurus (OM Gurus), who used OSMTracker for Android to map critical lifeline facilities and Mapillary for collecting street-level images. The field plan was provided by TBS, and while using FMTM could have helped organize the collection, time constraints limited training for the Gurus. After the field data collection, the Gurus mapped public facilities to OSM while the AP Hub validated their uploads. This project provided exposure to local stakeholders on how they can collaborate with the Gurus to develop local open mapping initiatives. The mapping efforts highlighted key features such as*:
 
-- **Buildings**: [View mapped buildings](https://tinyurl.com/shernibuildings)
-- **Schools**: [View mapped schools](https://tinyurl.com/shernischools)
-- **Places of Worship**: [View mapped places of worship](https://tinyurl.com/sherniplacesofworship)
-- **Water Points and Water Bodies**: [View mapped water points](https://tinyurl.com/sherniwater)
+- **Buildings**: [Download mapped buildings](https://tinyurl.com/shernibuildings)
+- **Schools**: [Download mapped schools](https://tinyurl.com/shernischools)
+- **Places of Worship**: [Download mapped places of worship](https://tinyurl.com/sherniplacesofworship)
+- **Water Points and Water Bodies**: [Download mapped water points](https://tinyurl.com/sherniwater)
 <br>
 <br>
 
