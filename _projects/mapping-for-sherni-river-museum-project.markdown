@@ -70,7 +70,7 @@ Remote mapping and validation campaigns were launched on the [HOT Tasking Manage
 The AP Hub held co-creation planning exercises with TBS to better understand the state of map data in the region, the vision TBS had for the River Museum, and the data TBS was interested in capturing. This included insights into the village's history, water access, sanitation practices, agricultural activities, and cultural significance of water. With this information, they co-created a localized plan for open-mapping.
 
 ### 3. Field Mapping with TBS
-Field mapping was conducted in partnership with the AP Hub’s Open Mapping Gurus (OM Gurus), who used OSMTracker for Android to map critical lifeline facilities and Mapillary for collecting street-level images. The field plan was provided by TBS, and while using FMTM could have helped organize the collection, time constraints limited training for the Gurus. After the field data collection, the Gurus mapped public facilities to OSM while the AP Hub validated their uploads. This project provided exposure to local stakeholders on how they can collaborate with the Gurus to develop local open mapping initiatives. The mapping efforts highlighted key features such as:
+Field mapping was conducted in partnership with the AP Hub’s Open Mapping Gurus (OM Gurus), who used OSMTracker for Android to map critical lifeline facilities and Mapillary for collecting street-level images. The field plan was provided by TBS, and while using FMTM could have helped organize the collection, time constraints limited training for the Gurus. After the field data collection, the Gurus mapped public facilities to OSM while the AP Hub validated their uploads. This project provided exposure to local stakeholders on how they can collaborate with the Gurus to develop local open mapping initiatives. The mapping efforts highlighted key features such as*:
 
 - **Buildings**: [View mapped buildings](https://tinyurl.com/shernibuildings)
 - **Schools**: [View mapped schools](https://tinyurl.com/shernischools)
@@ -140,3 +140,16 @@ The [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e
 Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.youtube.com/watch?v=gT72mJwUWww)
 
 Storymap - [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html)
+
+<div style="font-size: smaller; color: grey;">
+
+### Data Usage*:
+Please use this data responsibly and ethically. Proper citation of the OpenStreetMap Contributors is required when using this data for publications or presentations.
+
+### Disclaimer:
+While we strive to ensure data accuracy, we cannot guarantee its completeness or error-free nature. Users are responsible for verifying the data before use.
+
+For any questions or issues, please contact us at [openmappinghub.ap.hotosm.org](mailto:openmappinghub.ap.hotosm.org).
+
+</div>
+
