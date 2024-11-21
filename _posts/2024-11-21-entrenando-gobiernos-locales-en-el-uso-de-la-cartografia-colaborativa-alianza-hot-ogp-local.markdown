@@ -58,11 +58,9 @@ Se usó KoboToolbox para el levantamiento de la información, la cual fue obteni
 
 Francisco Medina, encargado de la Unidad de Planificación y Desarrollo de la Municipalidad de Maipú, ha señalado que los datos geográficos recopilados se cruzarán con información sobre las islas de calor. Este análisis permitirá identificar las áreas más prioritarias para diseñar e implementar proyectos de regeneración urbana que faciliten la adaptación al cambio climático, especialmente frente a las olas de calor.
 
-**![Mapa
+![Chile - OGP - Cartografía Colaborativa.png](/uploads/Chile%20-%20OGP%20-%20Cartografi%CC%81a%20Colaborativa.png)
 
-Descripción generada automáticamente](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdo9P0v3o6hMIExCuLBpeWjwW1qPOm6KYGrD2D2ENISyD-LUb_QK05fcN48EI_U39OlecG6K5T3F492Oeajf5YI_NmC3fjplkYoPRXfVL-oQJ05UfD7uPbKQlygDnc_cdoa5qWM7w?key=C231p_RmKrjq-NE_DguJtw)**
-
-***Imagen: Mapa EPA para prueba piloto.***
+*Imagen: Mapa EPA para prueba piloto.*
 
 ## Ecuador, Gobierno Municipal del Distrito Metropolitano de Quito
 
@@ -102,8 +100,8 @@ La decisión se basa en las necesidades que se experimentan durante la temporada
 
 Estas herramientas serán un apoyo clave como herramienta de consulta interna para el Instituto.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb96c_iE1pgWfhonWy3jPntRvymE8blA3powsqLEAP-BeCpTUj6DS_Gq0Xq-dNgJm0yOy7LQ185pWUtMAT4IejPzKk2CZc_VrNsFNv1KEWD8SJKb9QR51LefVDwTQtdL_S3tcQxg?key=C231p_RmKrjq-NE_DguJtw)**\
-***Imagen: Visor geográfico con datos de los Refugios de la Península Sureste de México con fecha del 4 de julio 2024***
+***![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb96c_iE1pgWfhonWy3jPntRvymE8blA3powsqLEAP-BeCpTUj6DS_Gq0Xq-dNgJm0yOy7LQ185pWUtMAT4IejPzKk2CZc_VrNsFNv1KEWD8SJKb9QR51LefVDwTQtdL_S3tcQxg?key=C231p_RmKrjq-NE_DguJtw)**\
+*Imagen: Visor geográfico con datos de los Refugios de la Península Sureste de México con fecha del 4 de julio 2024
 
 Nos encontramos en un momento crucial para nuestras ciudades, enfrentando desafíos que requieren soluciones ágiles, proactivas y, sobre todo, inclusivas. “Hoy más que nunca, la democratización de la información y el acceso a datos abiertos son fundamentales para construir ciudades resilientes, capaces de responder a emergencias, planificar su futuro y mejorar la calidad de vida de sus habitantes”, subraya Cuauhtémoc Gutiérrez, Director de CoMapper.
 
