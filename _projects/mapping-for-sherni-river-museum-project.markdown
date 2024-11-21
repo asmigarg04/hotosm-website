@@ -76,7 +76,14 @@ Field mapping was conducted in partnership with the AP Hub’s Open Mapping Guru
 - **Schools**: [View mapped schools](https://tinyurl.com/shernischools)
 - **Places of Worship**: [View mapped places of worship](https://tinyurl.com/sherniplacesofworship)
 - **Water Points and Water Bodies**: [View mapped water points](https://tinyurl.com/sherniwater)
-
+<br>
+<div style="text-align: center;">
+    <iframe src="/uploads/sherni-stats.png" frameborder="0" width="75%" height="300"></iframe>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Dashboard accounting mapped features during the project. 
+    </div>
+</div>
+<br>
 ### 4. Use Case Discussion and Handover Workshop
 The AP Hub held a workshop to discuss possible use cases for the OSM data acquired and the River Museum with TBS. We began building the narrative of the story map from the collected geospatial data and qualitative data from village FGDs, utilizing QGIS for accessibility analysis. The updated OSM data, which reflects the village's agricultural practices, water access points, and cultural practices surrounding water, were symbolically handed over to the local stakeholders. This collaborative effort aims to enhance the community's ability to advocate for their conservation needs and improve overall prosperity.
 <br>
