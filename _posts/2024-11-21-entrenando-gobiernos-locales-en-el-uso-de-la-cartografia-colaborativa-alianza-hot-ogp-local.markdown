@@ -5,6 +5,7 @@ date: 2024-11-21 03:55:00 Z
 Summary Text: El proyecto "Ciudades Abiertas Resilientes" capacitó a seis gobiernos
   en datos abiertos y herramientas geográficas, promoviendo soluciones resilientes
   y colaborativas frente a desafíos urbanos y climáticos.
+Feature Image: "/uploads/Entrenando%20Gobiernos%20Locales%20en%20el%20Uso%20de%20la%20Cartografi%CC%81a%20Colaborativa.jpg"
 Person:
 - Juan Arellano Valdivia
 - Mariana Marín
@@ -47,7 +48,7 @@ El objetivo era desarrollar un sistema integral de recolección, sistematizació
 
 Usando KoboToolbox para los cuestionarios, Qgis para generar los mapas y análisis espaciales y OpenStreetMap para descargar y validar datos y análisis visuales, se capturó inicialmente la información socioeconómica y de salud de 209 individuos, de 92 hogares de la micro área #5 del Municipio de Painel, como piloto para luego continuar la cobertura del estado. Esta información servirá como insumo en la elaboración de otros análisis relacionados a padecimientos de salud como la hipertensión, diabetes, etc., y permitir planeaciones del servicio.
 
-## **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2oQmA1zAVn8zUJqbxAWkSqEKVnJslpX_jKICFnq7iY7VrYmfBJpJtXIcfMS4DQmjBN633KN7B8HrDZAtB7_i-jfEuoMnj7w0KRjycdkIJK-34BV_Gwmgkc4Q2sjO7ISXPCUgF?key=C231p_RmKrjq-NE_DguJtw)**\
+## **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2oQmA1zAVn8zUJqbxAWkSqEKVnJslpX_jKICFnq7iY7VrYmfBJpJtXIcfMS4DQmjBN633KN7B8HrDZAtB7_i-jfEuoMnj7w0KRjycdkIJK-34BV_Gwmgkc4Q2sjO7ISXPCUgF?key=C231p_RmKrjq-NE_DguJtw)**
 
 ## Chile, Municipalidad de Maipú
 
@@ -59,14 +60,15 @@ Francisco Medina, encargado de la Unidad de Planificación y Desarrollo de la Mu
 
 **![Mapa
 
-Descripción generada automáticamente](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdo9P0v3o6hMIExCuLBpeWjwW1qPOm6KYGrD2D2ENISyD-LUb_QK05fcN48EI_U39OlecG6K5T3F492Oeajf5YI_NmC3fjplkYoPRXfVL-oQJ05UfD7uPbKQlygDnc_cdoa5qWM7w?key=C231p_RmKrjq-NE_DguJtw)**\
+Descripción generada automáticamente](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdo9P0v3o6hMIExCuLBpeWjwW1qPOm6KYGrD2D2ENISyD-LUb_QK05fcN48EI_U39OlecG6K5T3F492Oeajf5YI_NmC3fjplkYoPRXfVL-oQJ05UfD7uPbKQlygDnc_cdoa5qWM7w?key=C231p_RmKrjq-NE_DguJtw)**
+
 ***Imagen: Mapa EPA para prueba piloto.***
 
 ## Ecuador, Gobierno Municipal del Distrito Metropolitano de Quito
 
 Se requería identificar los riesgos naturales percibidos en el Distrito Metropolitano, con el fin de desarrollar iniciativas de sensibilización y preparación que fortalezcan la resiliencia comunitaria frente a eventos adversos.
 
-Nuevamente se usó KoboToolbox para la recolección de datos -obteniendo 1190 respuestas- y OpenStreetMap para mapear el área de estudio, generar y descargar información geoespacial. Mediante software GIS se procedió a generar un dashboard open source con las respuestas receptadas y un *Mapa de Percepción de Riesgo *que visualiza las zonas con mayor y menor percepción de riesgo en Quito.
+Nuevamente se usó KoboToolbox para la recolección de datos -obteniendo 1190 respuestas- y OpenStreetMap para mapear el área de estudio, generar y descargar información geoespacial. Mediante software GIS se procedió a generar un dashboard open source con las respuestas receptadas y un \*Mapa de Percepción de Riesgo \*que visualiza las zonas con mayor y menor percepción de riesgo en Quito.
 
 A raíz del proyecto, la Secretaría de Seguridad, a través de la Dirección de Gestión de Riesgo, ha comenzado a utilizar la herramienta Kobo Toolbox para recopilar datos sobre la percepción de riesgos de una manera que abarque todo el municipio y el territorio quiteño. Actualmente, el equipo se encuentra en campo recopilando estas respuestas, aplicando este mini proyecto que surgió inicialmente como un piloto en el marco del taller.
 
