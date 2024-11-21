@@ -149,8 +149,8 @@ Storymap - [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d
 
 <div style="font-size: smaller; color: grey;">
 
-### Data Usage: *
-Please use this data responsibly and ethically. Proper citation of the OpenStreetMap Contributors is required when using this data for publications or presentations.
+### Data Usage: 
+*Please use this data responsibly and ethically. Proper citation of the OpenStreetMap Contributors is required when using this data for publications or presentations.
 
 ### Disclaimer:
 While we strive to ensure data accuracy, we cannot guarantee its completeness or error-free nature. Users are responsible for verifying the data before use.
