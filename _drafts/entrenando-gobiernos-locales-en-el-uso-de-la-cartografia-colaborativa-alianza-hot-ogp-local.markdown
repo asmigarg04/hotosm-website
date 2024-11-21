@@ -5,6 +5,16 @@ date: 2024-11-21 03:55:00 Z
 Summary Text: El proyecto "Ciudades Abiertas Resilientes" capacitó a seis gobiernos
   en datos abiertos y herramientas geográficas, promoviendo soluciones resilientes
   y colaborativas frente a desafíos urbanos y climáticos.
+Person:
+- Juan Arellano Valdivia
+- Mariana Marín
+Country:
+- Chile
+- Brazil
+- Ecuador
+- Mexico
+Project:
+- Mapping for Climate Ready Cities - Latin America
 ---
 
 En el actual contexto de la administración pública, la gestión eficiente y equitativa del territorio es una prioridad, la falta de datos locales para la acción es una constante, y por tanto el uso de herramientas digitales y la colaboración ciudadana son esenciales para que los gobiernos locales tengan mejores insumos para ejercer políticas públicas de calidad.
