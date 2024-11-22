@@ -148,7 +148,7 @@ Youtube - Reviving the Rivers: [A Community-Powered River Museum](https://www.yo
 Storymap - [Sherni River Museum](https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html)
 
 <br>
-<small style="color: gray">
+
 ### Data Usage*: 
 Please use this data responsibly and ethically. Proper citation of the OpenStreetMap Contributors is required when using this data for publications or presentations.
 
@@ -156,6 +156,6 @@ Please use this data responsibly and ethically. Proper citation of the OpenStree
 While we strive to ensure data accuracy, we cannot guarantee its completeness or error-free nature. Users are responsible for verifying the data before use.
 
 For any questions or issues, please contact us at [openmappinghub.ap.hotosm.org](mailto:openmappinghub.ap.hotosm.org).
-</small>
+
 
 
