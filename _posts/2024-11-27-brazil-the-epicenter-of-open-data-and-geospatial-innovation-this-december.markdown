@@ -44,15 +44,15 @@ Tuesday, December 3 | 9:00–13:00: [Community drone mapping: practical workshop
 
 Join our colleagues, Emi, Ivan, Celine, as they share insights into innovative tools and practical applications of OpenStreetMap (OSM) in Brazil and beyond:
 
-→ **Thursday, December 5** - 11:00–11:30: [Humanitarian Response Through Collaborative Data and Open-Source Tools in Rio Grande do Sul – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/SHFZBP/)
+* **Thursday, December 5** - 11:00–11:30: [Humanitarian Response Through Collaborative Data and Open-Source Tools in Rio Grande do Sul – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/SHFZBP/)
 
-→ **Thursday, December 5** - 12:30–13:00: [Using OpenStreetMap for Community-Based Territorial Management: The Amazon Mappings – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/MRDDHV/)
+* **Thursday, December 5** - 12:30–13:00: [Using OpenStreetMap for Community-Based Territorial Management: The Amazon Mappings – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/MRDDHV/)
 
-→ **Thursday, December 5** - 14:00–14:30: [End-to-End Tech for Humanitarian Response and Disaster Relief – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/GLWKFA/)
+* **Thursday, December 5** - 14:00–14:30: [End-to-End Tech for Humanitarian Response and Disaster Relief – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/GLWKFA/)
 
-→ **Thursday, December 5** - 14:30–15:00: [State of fAIr: Free and Open AI-Assisted Mapping for Humanitarian Efforts – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/PU8PKE/)
+* **Thursday, December 5** - 14:30–15:00: [State of fAIr: Free and Open AI-Assisted Mapping for Humanitarian Efforts – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/PU8PKE/)
 
-→ **Friday, December 6** - 16:30–17:00: [Humanitarian Data Collection Using Browser-Based Postgres – Emi Marical / Ivan Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)
+* **Friday, December 6** - 16:30–17:00: [Humanitarian Data Collection Using Browser-Based Postgres – Emi Marical / Ivan Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)
 
 ## STATE OF THE MAP
 
