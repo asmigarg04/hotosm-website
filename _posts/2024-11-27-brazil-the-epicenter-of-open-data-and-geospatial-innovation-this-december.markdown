@@ -58,7 +58,7 @@ Join our colleagues, Emi, Ivan, Celine, as they share insights into innovative t
 
 ## **Workshops**
 
-Friday, December 6 | Mapping in the Favelas. We will hold a collaborative drone workshop and open mapping activity with the [Porto da Ceasa community](https://observatoriodefavelas.org.br/porto-da-ceasa-uma-comunidade-tradicional-amazonica-ribeirinha-parawara-cabana-e-tupinamba/), a traditional riverside Amazonian community with Parawara, Cabana, and Tupinambá heritage. The event will include a hands-on drone session led by Ivan, offering participants practical drone piloting experience. Additionally, the workshop will introduce the community to OpenStreetMap (OSM), enhancing them with tools to enhance local mapping and representation.
+**Friday, December 6:** Mapping in the Favelas. We will hold a collaborative drone workshop and open mapping activity with the [Porto da Ceasa community](https://observatoriodefavelas.org.br/porto-da-ceasa-uma-comunidade-tradicional-amazonica-ribeirinha-parawara-cabana-e-tupinamba/), a traditional riverside Amazonian community with Parawara, Cabana, and Tupinambá heritage. The event will include a hands-on drone session led by Ivan, offering participants practical drone piloting experience. Additionally, the workshop will introduce the community to OpenStreetMap (OSM), enhancing them with tools to enhance local mapping and representation.
 
 ## Talks
 
