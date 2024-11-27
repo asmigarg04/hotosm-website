@@ -28,27 +28,27 @@ La semana estará repleta de sesiones, talleres y charlas donde descubrirás sol
 
 ## AMÉRICA ABIERTA
 
-Miércoles 4 de diciembre | 14:00–14:45 hrs: **[Ciudades resilientes: colaboración, datos y apertura frente al cambio climático](https://atividades.americaaberta.org/2024/talk/TYLFQG/)**. Acompaña a nuestros colegas Fabrizio Scrollini y Mar Marín, junto al Banco Interamericano de Desarrollo, Open Government Partnership y el Gobierno de Maipú, Chile, para compartir lecciones aprendidas sobre el uso de datos abiertos y tecnologías participativas para enfrentar desastres naturales, promover la resiliencia urbana y abordar los retos climáticos con herramientas sostenibles.
+Miércoles 4 de diciembre | 14:00–14:45 hrs: [Ciudades resilientes: colaboración, datos y apertura frente al cambio climático](https://atividades.americaaberta.org/2024/talk/TYLFQG/). Acompaña a nuestros colegas Fabrizio Scrollini y Mar Marín, junto al Banco Interamericano de Desarrollo, Open Government Partnership y el Gobierno de Maipú, Chile, para compartir lecciones aprendidas sobre el uso de datos abiertos y tecnologías participativas para enfrentar desastres naturales, promover la resiliencia urbana y abordar los retos climáticos con herramientas sostenibles.
 
 # **FOSSFG**
 
 ## **Talleres**
 
-Martes 3 de diciembre | 9:00–13:00: **[Mapeo comunitario con drones: taller práctico](https://talks.osgeo.org/foss4g-2024-workshop/talk/YTQJZ7/)**[.](https://talks.osgeo.org/foss4g-2024-workshop/talk/YTQJZ7/) Aprende a usar drones accesibles y de bajo costo junto con el Drone Tasking Manager para capturar imágenes aéreas de alta calidad. Ideal para explorar el mapeo con drones como herramienta para el desarrollo comunitario y la respuesta a desastres.
+Martes 3 de diciembre | 9:00–13:00: [Mapeo comunitario con drones: taller práctico.](https://talks.osgeo.org/foss4g-2024-workshop/talk/YTQJZ7/) Aprende a usar drones accesibles y de bajo costo junto con el Drone Tasking Manager para capturar imágenes aéreas de alta calidad. Ideal para explorar el mapeo con drones como herramienta para el desarrollo comunitario y la respuesta a desastres.
 
 ## Charlas
 
 Acompaña a nuestros colegas Emi, Iván y Céline mientras comparten perspectivas sobre herramientas innovadoras y aplicaciones prácticas de OpenStreetMap (OSM) en Brasil y más allá:
 
-* Jueves 5 de diciembre | 11:00–11:30: **[Respuesta humanitaria mediante datos colaborativos y herramientas de código abierto en Río Grande do Sul – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/SHFZBP/)**
+→ Jueves 5 de diciembre | 11:00–11:30: [Respuesta humanitaria mediante datos colaborativos y herramientas de código abierto en Río Grande do Sul – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/SHFZBP/)
 
-* Jueves 5 de diciembre | 12:30–13:00: **[Usando OpenStreetMap para la gestión territorial basada en la comunidad: Mapeos en el Amazonas – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/MRDDHV/)**
+→ Jueves 5 de diciembre | 12:30–13:00: [Usando OpenStreetMap para la gestión territorial basada en la comunidad: Mapeos en el Amazonas – Celine Jacquin](https://talks.osgeo.org/foss4g-2024/talk/MRDDHV/)
 
-* Jueves 5 de diciembre | 14:00–14:30: **[Tecnología integral para respuesta humanitaria y alivio ante desastres – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/GLWKFA/)**
+→ Jueves 5 de diciembre | 14:00–14:30: [Tecnología integral para respuesta humanitaria y alivio ante desastres – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/GLWKFA/)
 
-* Jueves 5 de diciembre | 14:30–15:00: **[State of fAIr: Mapeo asistido por IA libre y abierto para esfuerzos humanitarios – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/PU8PKE/)**
+→ Jueves 5 de diciembre | 14:30–15:00: [State of fAIr: Mapeo asistido por IA libre y abierto para esfuerzos humanitarios – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/PU8PKE/)
 
-* Viernes 6 de diciembre | 16:30–17:00:\*\* [Recolección de datos humanitarios con Postgres basado en navegador – Emi Mariscal / Iván Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)\*\*
+→Viernes 6 de diciembre | 16:30–17:00: [Recolección de datos humanitarios con Postgres basado en navegador – Emi Mariscal / Iván Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)
 
 **STATE OF THE MAP**
 
@@ -56,15 +56,15 @@ Un evento clave que destaca el potencial transformador de OpenStreetMap en Amér
 
 ¡No te pierdas nuestras contribuciones al programa! Aquí es donde puedes unirte:
 
-* Viernes 6 de diciembre | **Mapeo en las favelas:** Realizaremos un taller colaborativo de drones y una actividad de mapeo abierto con la comunidad de Porto da Ceasa, una comunidad tradicional ribereña amazónica con herencia Parawara, Cabana y Tupinambá. Este evento incluirá una sesión práctica de drones liderada por Ivan, ofreciendo a los participantes experiencia práctica en pilotaje. Además, el taller introducirá a la comunidad a OpenStreetMap (OSM), brindándoles herramientas para mejorar su mapeo local y representación.
+→ Viernes 6 de diciembre | Mapeo en las favelas: Realizaremos un taller colaborativo de drones y una actividad de mapeo abierto con la comunidad de Porto da Ceasa, una comunidad tradicional ribereña amazónica con herencia Parawara, Cabana y Tupinambá. Este evento incluirá una sesión práctica de drones liderada por Ivan, ofreciendo a los participantes experiencia práctica en pilotaje. Además, el taller introducirá a la comunidad a OpenStreetMap (OSM), brindándoles herramientas para mejorar su mapeo local y representación.
 
-* Sábado 7 de diciembre | 11:30–12:00: **[OpenStreetMap como herramienta de visibilización de comunidades indígenas en la Amazonía – Juan Melo](https://talks.osgeo.org/sotm2024-latam/talk/NCRW8B/)**
+→ Sábado 7 de diciembre | 11:30–12:00: [OpenStreetMap como herramienta de visibilización de comunidades indígenas en la Amazonía – Juan Melo](https://talks.osgeo.org/sotm2024-latam/talk/NCRW8B/)
 
-* Sábado 7 de diciembre | 18:50–19:40:\*\* [Proyectos de mapeos amazónicos para la gestión territorial comunitaria - Céline Jacquin](https://talks.osgeo.org/sotm2024-latam/talk/E7GYT7/)\*\*
+→ Sábado 7 de diciembre | 18:50–19:40: [Proyectos de mapeos amazónicos para la gestión territorial comunitaria - Céline Jacquin](https://talks.osgeo.org/sotm2024-latam/talk/E7GYT7/)
 
-* Domingo 8 de diciembre | 8:30–10:30: **[Tecnología gratuita e integral de HOT para mapeo abierto – Emi Mariscal](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/)**
+→ Domingo 8 de diciembre | 8:30–10:30: [Tecnología gratuita e integral de HOT para mapeo abierto – Emi Mariscal](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/)
 
-* Domingo 8 de diciembre | 16:30–17:30:\*\* [Mapeo preventivo y de respuesta a desastres, formando comunidad experta: experiencias en América Latina](https://talks.osgeo.org/sotm2024-latam/talk/PUDX3E/)\*\* - Céline Jacquin
+→ Domingo 8 de diciembre | 16:30–17:30: [Mapeo preventivo y de respuesta a desastres, formando comunidad experta: experiencias en América Latina](https://talks.osgeo.org/sotm2024-latam/talk/PUDX3E/) - Céline Jacquin
 
 **MANTENTE EN CONTACTO**
 
@@ -72,8 +72,8 @@ Un evento clave que destaca el potencial transformador de OpenStreetMap en Amér
 
 ¿No podrás asistir? ¡No te preocupes! Compartiremos los aspectos más destacados después de los eventos. Mientras tanto, conéctate con el equipo:
 
-* \*\*Email: \*\*[tech@hotosm.org](mailto:tech@hotosm.org)
+* Email: [tech@hotosm.org](mailto:tech@hotosm.org)
 
-* **Slack:** Únete a nuestro canal [#geospatial-tech-and-innovation](https://join.slack.com/t/hotosm/shared_invite/zt-2ebvqsaqs-dhM4FsZs0XCOt3FjGv0YtA)
+* Slack: Únete a nuestro canal [#geospatial-tech-and-innovation](https://join.slack.com/t/hotosm/shared_invite/zt-2ebvqsaqs-dhM4FsZs0XCOt3FjGv0YtA)
 
-* \*\*Webinar: \*\*Mira nuestra reciente sesión sobre [Soluciones de Mapeo Abierto Lideradas por la Comunidad](https://www.youtube.com/watch?v=D9udu-2sqJQ&t=2281s&ab_channel=HumanitarianOpenStreetMapTeam), y únete a la próxima el lunes 16 de diciembre | 14:00–15:30. Regístrate [aquí](https://buff.ly/4fcmrMF).
+* Webinar: Mira nuestra reciente sesión sobre [Soluciones de Mapeo Abierto Lideradas por la Comunidad](https://www.youtube.com/watch?v=D9udu-2sqJQ&t=2281s&ab_channel=HumanitarianOpenStreetMapTeam), y únete a la próxima el lunes 16 de diciembre | 14:00–15:30. Regístrate [aquí](https://buff.ly/4fcmrMF).
