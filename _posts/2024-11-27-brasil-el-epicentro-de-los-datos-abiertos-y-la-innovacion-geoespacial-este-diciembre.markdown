@@ -1,6 +1,6 @@
 ---
-title: Brasil, el epicentro de los datos abiertos y la innovación geoespacial este
-  diciembre
+title: Brasil, el Epicentro de los Datos Abiertos y la Innovación Geoespacial este
+  Diciembre
 date: 2024-11-27 04:56:00 Z
 Summary Text: "¡Una semana extraordinaria, tres eventos transformadores! América Abierta,
   FOSS4G Belém 2024 y State of the Map LATAM 2024 están a la vuelta de la esquina,
