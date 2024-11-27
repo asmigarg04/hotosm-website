@@ -30,7 +30,7 @@ La semana estará repleta de sesiones, talleres y charlas donde descubrirás sol
 
 Miércoles 4 de diciembre, 14:00–14:45 hrs: [Ciudades resilientes: colaboración, datos y apertura frente al cambio climático](https://atividades.americaaberta.org/2024/talk/TYLFQG/). Acompaña a nuestros colegas Fabrizio Scrollini y Mar Marín, junto al Banco Interamericano de Desarrollo, Open Government Partnership y el Gobierno de Maipú, Chile, para compartir lecciones aprendidas sobre el uso de datos abiertos y tecnologías participativas para enfrentar desastres naturales, promover la resiliencia urbana y abordar los retos climáticos con herramientas sostenibles.
 
-# **FOSSFG**
+## **FOSSFG**
 
 ## **Talleres**
 
@@ -50,7 +50,7 @@ Acompaña a nuestros colegas Emi, Iván y Céline mientras comparten perspectiva
 
 * Viernes 6 de diciembre, 16:30–17:00: [Recolección de datos humanitarios con Postgres basado en navegador – Emi Mariscal / Iván Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)
 
-**STATE OF THE MAP**
+## **STATE OF THE MAP**
 
 Un evento clave que destaca el potencial transformador de OpenStreetMap en América Latina. Este año, HOT se enorgullece de financiar esta conferencia impulsada por la comunidad, que reúne a personas mapeadoras, desarrolladoras, investigadoras y entusiastas para explorar aplicaciones y soluciones innovadoras con tecnologías de mapeo abierto.
 
@@ -66,14 +66,14 @@ Un evento clave que destaca el potencial transformador de OpenStreetMap en Amér
 
 * Domingo 8 de diciembre, 16:30–17:30: [Mapeo preventivo y de respuesta a desastres, formando comunidad experta: experiencias en América Latina](https://talks.osgeo.org/sotm2024-latam/talk/PUDX3E/) - Céline Jacquin
 
-**MANTENTE EN CONTACTO**
+# **MANTENTE EN CONTACTO**
 
 ¿Asistirás en persona? Saluda a [Fabrizio](https://www.linkedin.com/in/fabrizioscrollini/) y [Mar](https://www.linkedin.com/in/marinvmariana/) en América Abierta (Brasilia); y conoce a [Emi](https://www.linkedin.com/in/emiliomariscal/), [Ivan](https://www.linkedin.com/in/ivan-gayton-a6081b29/), [Celine](https://www.linkedin.com/in/celine-l-jacquin/), [Giovanna](https://www.linkedin.com/in/giovanna-gal%C3%BAcio-lacerda-203594188/), [Juan Arellano](https://www.linkedin.com/in/juan-arellano-cyberjuan/) y [Juan Melo](https://www.linkedin.com/in/juan-carlos-melo-luna-27b690b3/) en FOSS4G y SoTM (Belén).
 
 ¿No podrás asistir? ¡No te preocupes! Compartiremos los aspectos más destacados después de los eventos. Mientras tanto, conéctate con el equipo:
 
-* **Email: **[tech@hotosm.org](mailto:tech@hotosm.org)
+* Email:  [tech@hotosm.org](mailto:tech@hotosm.org)
 
-* **Slack: **Únete a nuestro canal [#geospatial-tech-and-innovation](https://join.slack.com/t/hotosm/shared_invite/zt-2ebvqsaqs-dhM4FsZs0XCOt3FjGv0YtA)
+* Slack: Únete a nuestro canal [#geospatial-tech-and-innovation](https://join.slack.com/t/hotosm/shared_invite/zt-2ebvqsaqs-dhM4FsZs0XCOt3FjGv0YtA)
 
-* **Webinar: **Mira nuestra reciente sesión sobre [Soluciones de Mapeo Abierto Lideradas por la Comunidad](https://www.youtube.com/watch?v=D9udu-2sqJQ&t=2281s&ab_channel=HumanitarianOpenStreetMapTeam), y únete a la próxima el lunes 16 de diciembre, 14:00–15:30. Regístrate [aquí](https://buff.ly/4fcmrMF).
+* Webinar: Mira nuestra reciente sesión sobre [Soluciones de Mapeo Abierto Lideradas por la Comunidad](https://www.youtube.com/watch?v=D9udu-2sqJQ&t=2281s&ab_channel=HumanitarianOpenStreetMapTeam), y únete a la próxima el lunes 16 de diciembre, 14:00–15:30. Regístrate [aquí](https://buff.ly/4fcmrMF).
