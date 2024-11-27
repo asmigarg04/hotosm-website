@@ -62,13 +62,13 @@ Friday, December 6 | Mapping in the Favelas. We will hold a collaborative drone 
 
 ## Talks
 
-→ Saturday, December 7 | 11:30–12:00: [OpenStreetMap as a Tool for Making Indigenous Communities in the Amazon Visible - Juan Melo](https://talks.osgeo.org/sotm2024-latam/talk/NCRW8B/)
+* **Saturday, December 7** -  11:30–12:00: [OpenStreetMap as a Tool for Making Indigenous Communities in the Amazon Visible - Juan Melo](https://talks.osgeo.org/sotm2024-latam/talk/NCRW8B/)
 
-→ Saturday, December 7 | 18:50–19:40: [Amazon Mapping Projects for Community Land Management - Juan Melo](https://talks.osgeo.org/sotm2024-latam/talk/E7GYT7/)
+* **Saturday, December 7** -  18:50–19:40: [Amazon Mapping Projects for Community Land Management - Juan Melo](https://talks.osgeo.org/sotm2024-latam/talk/E7GYT7/)
 
-→ Sunday, December 8 | 8:30–10:30: [HOT's End-To-End Free Technology for Open Mapping - Emi Mariscal](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/)
+* **Sunday, December 8** -  8:30–10:30: [HOT's End-To-End Free Technology for Open Mapping - Emi Mariscal](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/)
 
-→ Sunday, December 8 | 16:30–17:30: [Preventive and Disaster Response Mapping: Building Expert Communities - Experiences in Latin America - Céline Jacquin](https://talks.osgeo.org/sotm2024-latam/talk/PUDX3E/)
+* **Sunday, December 8** -  16:30–17:30: [Preventive and Disaster Response Mapping: Building Expert Communities - Experiences in Latin America - Céline Jacquin](https://talks.osgeo.org/sotm2024-latam/talk/PUDX3E/)
 
 ### Stay in touch!
 
