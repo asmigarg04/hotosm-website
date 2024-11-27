@@ -32,11 +32,11 @@ Miércoles 4 de diciembre, 14:00–14:45 hrs: [Ciudades resilientes: colaboraci�
 
 ## **FOSSFG**
 
-## **Talleres**
+### **Talleres**
 
 Martes 3 de diciembre, 9:00–13:00: [Mapeo comunitario con drones: taller práctico.](https://talks.osgeo.org/foss4g-2024-workshop/talk/YTQJZ7/) Aprende a usar drones accesibles y de bajo costo junto con el Drone Tasking Manager para capturar imágenes aéreas de alta calidad. Ideal para explorar el mapeo con drones como herramienta para el desarrollo comunitario y la respuesta a desastres.
 
-## Charlas
+### Charlas
 
 Acompaña a nuestros colegas Emi, Iván y Céline mientras comparten perspectivas sobre herramientas innovadoras y aplicaciones prácticas de OpenStreetMap (OSM) en Brasil y más allá:
 
