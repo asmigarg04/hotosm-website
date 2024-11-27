@@ -2,11 +2,10 @@
 title: Brazil, the Epicenter of Open Data and Geospatial Innovation This December
 date: 2024-11-27 03:22:00 Z
 Summary Text: One extraordinary week, three transformative events! Open Americas,
-  [Open America](https://americaaberta.org/en/home/), [FOSS4G Belem 2024](https://2024.foss4g.org/en/),
-  [State of the Map LATAM 2024](https://2024.osmlatam.org/en/) are just around the
-  corner, taking place from December 2–6 and December 6–8. These events will bring
-  together the brightest minds in open data and geospatial innovation, and we’re thrilled
-  to announce that HOT will be right at the center of the action.
+  FOSS4G Belem 2024, and the State of the Map LATAM 2024 are just around the corner,
+  taking place from December 2–6 and December 6–8. These events will bring together
+  the brightest minds in open data and geospatial innovation, and we’re thrilled to
+  announce that HOT will be right at the center of the action.
 Feature Image: "/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Open%20America%20Brasilia.jpg"
 Person:
 - Petya Kangalova
