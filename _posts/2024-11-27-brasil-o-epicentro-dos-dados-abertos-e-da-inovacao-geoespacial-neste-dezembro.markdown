@@ -1,6 +1,11 @@
 ---
 title: Brasil, o Epicentro dos Dados Abertos e da Inovação Geoespacial neste Dezembro
-date: 2024-11-19 21:40:00 Z
+date: 2024-11-27 21:40:00 Z
+Summary Text: Uma semana extraordinária, três eventos transformadores! América Abierta,
+  FOSS4G Belém 2024 e State of the Map LATAM 2024 estão chegando, acontecendo de 2
+  a 6 de dezembro e de 6 a 8 de dezembro. Esses eventos reunirão as mentes mais brilhantes
+  em dados abertos e inovação geoespacial, e estamos entusiasmadas em anunciar que
+  a HOT estará no centro da ação.
 Feature Image: "/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Ame%CC%81rica%20Abierta%20Brasilia%20v2.jpg"
 ---
 
