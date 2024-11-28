@@ -14,6 +14,8 @@ Country:
 - Brazil
 ---
 
+[Versión en español](https://www.hotosm.org/updates/brasil-el-epicentro-de-los-datos-abiertos-y-la-innovacion-geoespacial-este-diciembre/) / [Versão em português](https://www.hotosm.org/updates/brasil-o-epicentro-dos-dados-abertos-e-da-inovacao-geoespacial-neste-dezembro/)
+
 # **Why the excitement?**
 
 This December, Brazil takes center stage as the global geospatial and open data communities converge for an unprecedented week of events. From December 2–8, three major conferences will transform Brazil into a hub of innovation and collaboration: Open America in Brasília, FOSS4G Belém 2024, and State of the Map LATAM 2024 in Belém, Pará.
