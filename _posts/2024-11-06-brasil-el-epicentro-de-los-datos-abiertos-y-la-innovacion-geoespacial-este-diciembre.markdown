@@ -55,7 +55,7 @@ Acompaña a nuestros colegas Emi, Iván y Céline mientras comparten perspectiva
 
 * Jueves 5 de diciembre, 14:30–15:00: [State of fAIr: Mapeo asistido por IA libre y abierto para esfuerzos humanitarios – Emi Mariscal](https://talks.osgeo.org/foss4g-2024/talk/PU8PKE/)
 
-* Viernes 6 de diciembre, 16:30–17:00: [Recolección de datos humanitarios con Postgres basado en navegador – Emi Mariscal / Iván Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)
+* Viernes 6 de diciembre, 16:30–17:00: [Recolección de datos humanitarios con Postgres basado en navegador – Iván Buendía](https://talks.osgeo.org/foss4g-2024/talk/ZX3NWS/)
 
 ## **STATE OF THE MAP**
 
