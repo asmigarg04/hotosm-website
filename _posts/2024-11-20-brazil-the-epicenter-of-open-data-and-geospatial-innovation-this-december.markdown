@@ -34,7 +34,7 @@ The week is packed with sessions, workshops, and talks where you’ll discover c
 
 ## **OPEN AMERICA**
 
-Wednesday, December 4, 14:00–14:45 hrs: [Resilient cities: collaboration, data and openness facing climate change](https://atividades.americaaberta.org/2024/talk/TYLFQG/). Join our colleagues Fabrizio Scrollini and Mar Marín as they meet the Inter-American Development Bank, Open Government Partnership, and the Government of Maipu, Chile to share lessons learned on using open data and participatory technologies to address natural disasters, promote city resilience, and tackle climate challenges with sustainable tools.
+**Wednesday, December 4, 14:00–14:45 hrs:** [Resilient cities: collaboration, data and openness facing climate change](https://atividades.americaaberta.org/2024/talk/TYLFQG/). Join our colleagues Fabrizio Scrollini and Mar Marín as they meet the Inter-American Development Bank, Open Government Partnership, and the Government of Maipu, Chile to share lessons learned on using open data and participatory technologies to address natural disasters, promote city resilience, and tackle climate challenges with sustainable tools.
 
 # **FOSSFG**
 
