@@ -8,6 +8,11 @@ Summary Text: "¡Una semana extraordinaria, tres eventos transformadores! Améri
   reunirán a las mentes más brillantes en datos abiertos e innovación geoespacial,
   y estamos emocionadas de anunciar que HOT estará en el corazón de la acción."
 Feature Image: "/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Ame%CC%81rica%20Abierta%20Brasilia.jpg"
+Person:
+- Petya Kangalova
+- Mariana Marín
+Country:
+- Brazil
 ---
 
 # ¿Por qué el entusiasmo?
@@ -72,8 +77,8 @@ Un evento clave que destaca el potencial transformador de OpenStreetMap en Amér
 
 ¿No podrás asistir? ¡No te preocupes! Compartiremos los aspectos más destacados después de los eventos. Mientras tanto, conéctate con el equipo:
 
-* Email:  [tech@hotosm.org](mailto:tech@hotosm.org)
+* **Email:**  [tech@hotosm.org](mailto:tech@hotosm.org)
 
-* Slack: Únete a nuestro canal [#geospatial-tech-and-innovation](https://join.slack.com/t/hotosm/shared_invite/zt-2ebvqsaqs-dhM4FsZs0XCOt3FjGv0YtA)
+* **Slack:** Únete a nuestro canal [#geospatial-tech-and-innovation](https://join.slack.com/t/hotosm/shared_invite/zt-2ebvqsaqs-dhM4FsZs0XCOt3FjGv0YtA)
 
-* Webinar: Mira nuestra reciente sesión sobre [Soluciones de Mapeo Abierto Lideradas por la Comunidad](https://www.youtube.com/watch?v=D9udu-2sqJQ&t=2281s&ab_channel=HumanitarianOpenStreetMapTeam), y únete a la próxima el lunes 16 de diciembre, 14:00–15:30. Regístrate [aquí](https://buff.ly/4fcmrMF).
+* **Webinar:** Mira nuestra reciente sesión sobre [Soluciones de Mapeo Abierto Lideradas por la Comunidad](https://www.youtube.com/watch?v=D9udu-2sqJQ&t=2281s&ab_channel=HumanitarianOpenStreetMapTeam), y únete a la próxima el lunes 16 de diciembre, 14:00–15:30. Regístrate [aquí](https://buff.ly/4fcmrMF).

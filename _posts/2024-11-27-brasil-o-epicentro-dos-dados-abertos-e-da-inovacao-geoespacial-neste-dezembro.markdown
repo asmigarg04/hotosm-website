@@ -7,6 +7,11 @@ Summary Text: Uma semana extraordinária, três eventos transformadores! Améric
   em dados abertos e inovação geoespacial, e estamos entusiasmadas em anunciar que
   a HOT estará no centro da ação.
 Feature Image: "/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Ame%CC%81rica%20Abierta%20Brasilia%20v2.jpg"
+Person:
+- Petya Kangalova
+- Mariana Marín
+Country:
+- Brazil
 ---
 
 # **Por que todo esse entusiasmo?**
