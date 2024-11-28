@@ -1,6 +1,6 @@
 ---
 title: Brazil, the Epicenter of Open Data and Geospatial Innovation This December
-date: 2024-11-27 03:22:00 Z
+date: 2024-11-20 03:22:00 Z
 Summary Text: One extraordinary week, three transformative events! Open Americas,
   FOSS4G Belem 2024, and the State of the Map LATAM 2024 are just around the corner,
   taking place from December 2–6 and December 6–8. These events will bring together
