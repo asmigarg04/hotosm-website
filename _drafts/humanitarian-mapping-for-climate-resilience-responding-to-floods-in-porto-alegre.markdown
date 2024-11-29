@@ -1,13 +1,10 @@
 ---
 title: 'Social Infrastructure Recovery in Porto Alegre: Mapping for Resilience'
 date: 2024-11-29 22:04:00 Z
-Summary Text: On April 27, 2024, the hydroelectric dam of July 14 collapsed after
-  heavy rains in Rio Grande do Sul, Brazil, exacerbating historic floods in Porto
-  Alegre and affecting over a million people. In response, the LAC Hub launched an
-  open mapping effort to support recovery, updating maps and negotiating access to
-  post-disaster imagery. This effort, in collaboration with the Inter-American Development
-  Bank (IDB), focused on creating high-quality geographic data and developing tools
-  for recovery.
+Summary Text: After the 2024 floods in Porto Alegre, Brazil, the IDB and HOT partnered
+  to map and assess damaged infrastructure. Using georeferenced data and community
+  involvement, the collaboration supports sustainable recovery and resilience for
+  the city’s most vulnerable.
 Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
 Person:
 - Mariana Marín
