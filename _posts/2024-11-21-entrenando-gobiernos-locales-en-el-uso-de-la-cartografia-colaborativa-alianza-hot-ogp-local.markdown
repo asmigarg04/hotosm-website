@@ -72,7 +72,7 @@ Nuevamente se usó KoboToolbox para la recolección de datos -obteniendo 1190 re
 
 A raíz del proyecto, la Secretaría de Seguridad, a través de la Dirección de Gestión de Riesgo, ha comenzado a utilizar la herramienta Kobo Toolbox para recopilar datos sobre la percepción de riesgos de una manera que abarque todo el municipio y el territorio quiteño. Actualmente, el equipo se encuentra en campo recopilando estas respuestas, aplicando este mini proyecto que surgió inicialmente como un piloto en el marco del taller.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBqZ0ppHvhNPsFjK9DskLih2nxhoISecJlJ53hbWmwcuT3oo3x76dKiFJyCyfFAH5PiUkU5a7uzrRL5-TXUVRFUQLjnn4DTaOA4h-HtLDCd4S0H_eR1NS46GAPpjFtbUC4q9GZSg?key=C231p_RmKrjq-NE_DguJtw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBqZ0ppHvhNPsFjK9DskLih2nxhoISecJlJ53hbWmwcuT3oo3x76dKiFJyCyfFAH5PiUkU5a7uzrRL5-TXUVRFUQLjnn4DTaOA4h-HtLDCd4S0H_eR1NS46GAPpjFtbUC4q9GZSg?key=C231p_RmKrjq-NE_DguJtw)
 *Imagen: Mapa de percepción de riesgo*
 
 ## **Ecuador, Gobierno Autónomo Descentralizado Provincial de Santo Domingo de los Tsáchilas**
@@ -83,7 +83,7 @@ Se recopiló datos con Mapillary y KoboToolbox, para posteriormente integrarlos 
 
 El gobierno local busca reglamentar el uso de herramientas geográficas y expandir su aplicación a todas las dependencias. Aunque solo la Dirección de Planificación participó en el curso, se planea compartir este conocimiento con otras áreas para fortalecer proyectos turísticos, productivos y técnicos. La reglamentación será liderada por Planificación, con apoyo legal y técnico especializado.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAhFbNVX10jCvAxqDsYEy7TqrsM1J64H31qnz8fFYu_zA7-xpwbW6Gcdy6zBSk2WxYqX0MAsUvKGCi4NJ7GgHICPGdTfzwFvzqOmtSXsqLhioaWStowuZ18LEdNy-2QN9XfDsu?key=C231p_RmKrjq-NE_DguJtw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAhFbNVX10jCvAxqDsYEy7TqrsM1J64H31qnz8fFYu_zA7-xpwbW6Gcdy6zBSk2WxYqX0MAsUvKGCi4NJ7GgHICPGdTfzwFvzqOmtSXsqLhioaWStowuZ18LEdNy-2QN9XfDsu?key=C231p_RmKrjq-NE_DguJtw)
 *Imagen: [Red Vial Valle Hermoso](https://umap.openstreetmap.fr/es/map/red-vial-valle-hermoso_1103862#12/-0.0645/-79.2492)*
 
 ## **México, Gobierno Municipal de Chihuahua**
@@ -94,7 +94,7 @@ Se realizó la recolección y carga de imágenes con Mapillary, y mediante la in
 
 Este proyecto ha generado interés en diversas áreas del Gobierno Municipal para desarrollar iniciativas cartográficas. La Dirección de Mantenimiento Urbano, por ejemplo, planea un proyecto de mapeo e inventario de árboles en los principales parques públicos, utilizando Organic Maps y OpenStreetMap. Además, se propuso equipar un vehículo del departamento de inspección de la Tesorería Municipal con una cámara para mapear la ciudad y obtener imágenes actualizadas que se integren a la plataforma Sistema de Información Geográfica Municipal (SIGMUN) mediante un widget. Por último, se cuenta con fotografías del piloto y de la salida para mapear el polígono del proyecto, como evidencia del trabajo realizado.
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-ZVs6X30MM8CrShcYtPwu8GgOAajwp6Zau_psgPrVU_4UkPnOYR_jlp1g9GZ84OuemGVZQfnlVK7nWYbSOGW2GU7M9KQhtYApSTt49Fsr6t3o00DEViED07K4jwGHN7f4XDoIqQ?key=C231p_RmKrjq-NE_DguJtw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-ZVs6X30MM8CrShcYtPwu8GgOAajwp6Zau_psgPrVU_4UkPnOYR_jlp1g9GZ84OuemGVZQfnlVK7nWYbSOGW2GU7M9KQhtYApSTt49Fsr6t3o00DEViED07K4jwGHN7f4XDoIqQ?key=C231p_RmKrjq-NE_DguJtw)
 *Imagen: Levantamiento fotográfico y luminarias del área de estudio*
 
 ## México, Gobierno de Quintana Roo
@@ -105,7 +105,7 @@ La decisión se basa en las necesidades que se experimentan durante la temporada
 
 Estas herramientas serán un apoyo clave como herramienta de consulta interna para el Instituto.
 
-\***![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb96c_iE1pgWfhonWy3jPntRvymE8blA3powsqLEAP-BeCpTUj6DS_Gq0Xq-dNgJm0yOy7LQ185pWUtMAT4IejPzKk2CZc_VrNsFNv1KEWD8SJKb9QR51LefVDwTQtdL_S3tcQxg?key=C231p_RmKrjq-NE_DguJtw)**\
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb96c_iE1pgWfhonWy3jPntRvymE8blA3powsqLEAP-BeCpTUj6DS_Gq0Xq-dNgJm0yOy7LQ185pWUtMAT4IejPzKk2CZc_VrNsFNv1KEWD8SJKb9QR51LefVDwTQtdL_S3tcQxg?key=C231p_RmKrjq-NE_DguJtw)**\
 *Imagen: Visor geográfico con datos de los Refugios de la Península Sureste de México con fecha del 4 de julio 2024*
 
 Nos encontramos en un momento crucial para nuestras ciudades, enfrentando desafíos que requieren soluciones ágiles, proactivas y, sobre todo, inclusivas. “Hoy más que nunca, la democratización de la información y el acceso a datos abiertos son fundamentales para construir ciudades resilientes, capaces de responder a emergencias, planificar su futuro y mejorar la calidad de vida de sus habitantes”, subraya Cuauhtémoc Gutiérrez, Director de CoMapper. Explora más sobre su trabajo en este [enlace](https://site.comapper.org/trainning/2024/06/20/cartografia-colaborativa-para-los-gobiernos-diagnostico-y-capacitacion.html).
