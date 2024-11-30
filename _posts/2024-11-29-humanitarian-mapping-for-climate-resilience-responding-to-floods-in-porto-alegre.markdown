@@ -43,15 +43,15 @@ As a result, detailed information on social infrastructure facilities affected b
 
 # Data into Action
 
-The information collected during the mission was crucial for redefining the IDB program with Porto Alegre. Thanks to the georeferenced data from the affected social buildings and the disaster assessments, effective planning was possible, directing resources to where they were most needed. 
+The information collected during the mission was crucial for redefining the IDB program with Porto Alegre. Thanks to the georeferenced data from the affected social buildings and the disaster assessments, effective planning was possible, directing resources to where they were most needed.
 
 Collaborative efforts with the technical teams from the Prefeitura were essential in reformulating the program, which prioritizes addressing the consequences of flooding and strengthening the response capacity of social services.
 
 Within the new program, the focus is on the rehabilitation and improvement of social services and benefits through investments in infrastructure upgrades, equipment, and social services across various sectors. All constructions, whether new or renovated, will incorporate criteria for environmental sustainability and climate resilience, along with energy efficiency measures, responsible water usage, appropriate material selection, and the installation of photovoltaic systems.
 
-* **Health Care Network: **36 rehabilitations and constructions, along with the provision of equipment for health care network buildings. Mental health programs targeting women affected by the floods, especially mothers or heads of families, which will include therapy sessions and support groups to balance professional and personal demands.
+* **Health Care Network:** 36 rehabilitations and constructions, along with the provision of equipment for health care network buildings. Mental health programs targeting women affected by the floods, especially mothers or heads of families, which will include therapy sessions and support groups to balance professional and personal demands.
 
-* **Social Protection Network: **23 rehabilitations and constructions of social protection centers. Programs for 6,000 people in extreme poverty and support for homeless individuals. Construction of a shelter for future emergencies.
+* **Social Protection Network:** 23 rehabilitations and constructions of social protection centers. Programs for 6,000 people in extreme poverty and support for homeless individuals. Construction of a shelter for future emergencies.
 
 * **Social Development Network:** Construction of housing for elderly individuals whose homes were most affected by the floods and rehabilitation of 3 community and sports spaces. Training programs for 6,500 young people and adults affected by the floods and facing greater social vulnerability in high-demand job sectors.
 
