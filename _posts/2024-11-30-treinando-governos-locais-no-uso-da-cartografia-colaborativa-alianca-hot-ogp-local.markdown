@@ -2,6 +2,10 @@
 title: 'Treinando Governos Locais no Uso da Cartografia Colaborativa: Aliança HOT
   - OGP Local'
 date: 2024-11-30 10:50:00 Z
+Summary Text: O projeto "Cidades Abertas Resilientes" capacitou seis governos em dados
+  abertos e ferramentas geográficas, promovendo soluções resilientes e colaborativas
+  diante de desafios urbanos e climáticos.
+Feature Image: "/uploads/Entrenando%20Gobiernos%20Locales%20en%20el%20Uso%20de%20la%20Cartografi%CC%81a%20Colaborativa.jpg"
 ---
 
 No atual contexto da administração pública, a gestão eficiente e equitativa do território é uma prioridade. A falta de dados locais para ação é uma constante, tornando o uso de ferramentas digitais e a colaboração cidadã essenciais para que os governos locais tenham melhores insumos para implementar políticas públicas de qualidade.
