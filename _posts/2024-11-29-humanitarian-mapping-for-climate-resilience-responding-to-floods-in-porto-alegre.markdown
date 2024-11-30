@@ -31,7 +31,7 @@ Early decision-making is at the essence of social infrastructure of recovery. Th
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/UupoR6dcV9E?si=-eNH1Ocknrm3ZgZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*This **360***° *video offers an inside look at the Ilha da Pintada Municipal School of Early Childhood Education, focusing on the current state of classrooms after an emergency. Accompanied by military personnel who have traveled from Rio de Janeiro to provide support, we explore how the school community is adapting and responding to current circumstances.*
+*This 360*° *video offers an inside look at the Ilha da Pintada Municipal School of Early Childhood Education, focusing on the current state of classrooms after an emergency. Accompanied by military personnel who have traveled from Rio de Janeiro to provide support, we explore how the school community is adapting and responding to current circumstances.*
 
 The HOT team emphasized the importance of developing methodologies that leverage open-source technologies, seamlessly integrating with local government systems to provide adaptable, community-driven data solutions. These tools generate alternative data sources, supporting a more efficient and resilient recovery process. They noted, "We were able to map facilities on OpenStreetMap and gather cartographic data, using tools like Mapillary to provide georeferenced images documenting the condition of the infrastructure."
 
