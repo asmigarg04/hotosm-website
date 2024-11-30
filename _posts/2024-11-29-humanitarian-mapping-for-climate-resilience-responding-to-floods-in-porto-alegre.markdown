@@ -33,7 +33,7 @@ Early decision-making is at the essence of social infrastructure of recovery. Th
 
 *This **360***° *video offers an inside look at the Ilha da Pintada Municipal School of Early Childhood Education, focusing on the current state of classrooms after an emergency. Accompanied by military personnel who have traveled from Rio de Janeiro to provide support, we explore how the school community is adapting and responding to current circumstances.*
 
-The HOT team emphasized the importance of developing methodologies that leverage open-source technologies, seamlessly integrating with local government systems to provide adaptable, community-driven data solutions. These tools generate alternative data sources, supporting a more efficient and resilient recovery process. They noted, "We were able to map facilities on OpenStreetMap and gather cartographic data, using tools like Mapillary to provide georeferenced images documenting the condition of the infrastructure." 
+The HOT team emphasized the importance of developing methodologies that leverage open-source technologies, seamlessly integrating with local government systems to provide adaptable, community-driven data solutions. These tools generate alternative data sources, supporting a more efficient and resilient recovery process. They noted, "We were able to map facilities on OpenStreetMap and gather cartographic data, using tools like Mapillary to provide georeferenced images documenting the condition of the infrastructure."
 
 In [Mapillary](https://www.mapillary.com/app/org/hotosm_lac?lat=-30.02390654431528&lng=-51.2122723780588&z=15.217550359101017&pKey=1257979585608018&menu=false), you can review the viewer of 12,216 images taken in the field by the HOT team.
 
@@ -43,17 +43,17 @@ As a result, detailed information on social infrastructure facilities affected b
 
 # Data into Action
 
-The information collected during the mission was crucial for redefining the IDB program with Porto Alegre. Thanks to the georeferenced data from the affected social buildings and the disaster assessments, effective planning was possible, directing resources to where they were most needed.
+The information collected during the mission was crucial for redefining the IDB program with Porto Alegre. Thanks to the georeferenced data from the affected social buildings and the disaster assessments, effective planning was possible, directing resources to where they were most needed. 
 
 Collaborative efforts with the technical teams from the Prefeitura were essential in reformulating the program, which prioritizes addressing the consequences of flooding and strengthening the response capacity of social services.
 
 Within the new program, the focus is on the rehabilitation and improvement of social services and benefits through investments in infrastructure upgrades, equipment, and social services across various sectors. All constructions, whether new or renovated, will incorporate criteria for environmental sustainability and climate resilience, along with energy efficiency measures, responsible water usage, appropriate material selection, and the installation of photovoltaic systems.
 
-* **Health Care Network: **36 rehabilitations and constructions, along with the provision of equipment for health care network buildings.** **Mental health programs targeting women affected by the floods, especially mothers or heads of families, which will include therapy sessions and support groups to balance professional and personal demands.
+* **Health Care Network: **36 rehabilitations and constructions, along with the provision of equipment for health care network buildings. Mental health programs targeting women affected by the floods, especially mothers or heads of families, which will include therapy sessions and support groups to balance professional and personal demands.
 
-* **Social Protection Network: **23 rehabilitations and constructions of social protection centers.** **Programs for 6,000 people in extreme poverty and support for homeless individuals.** **Construction of a shelter for future emergencies.
+* **Social Protection Network: **23 rehabilitations and constructions of social protection centers. Programs for 6,000 people in extreme poverty and support for homeless individuals. Construction of a shelter for future emergencies.
 
-* **Social Development Network: **Construction of housing for elderly individuals whose homes were most affected by the floods and** **rehabilitation of 3 community and sports spaces. Training programs for 6,500 young people and adults affected by the floods and facing greater social vulnerability in high-demand job sectors.
+* **Social Development Network:** Construction of housing for elderly individuals whose homes were most affected by the floods and rehabilitation of 3 community and sports spaces. Training programs for 6,500 young people and adults affected by the floods and facing greater social vulnerability in high-demand job sectors.
 
 Indirectly, over 1 million adult citizens will benefit by accessing better services through the digital ID platform, and approximately 44,000 vulnerable individuals will receive more targeted and comprehensive care thanks to improved coordination and interoperability of information systems. Additionally, around 133,000 people will experience enhanced health and social protection services due to the optimization of care networks.
 
