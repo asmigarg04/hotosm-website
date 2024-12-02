@@ -26,7 +26,7 @@ Once you’ve signed up, you’ll receive more information about the session you
 
 → **When?**
 
-The event will start on December 4th at 00:00 UTC (10 am for those in the earliest time zones of the Asia-Pacific region) and finish by December 5th at 00:00 UTC (5:00 pm on Dec 4th for those in the Western Coasts of North America). Each session will run for 2 hours, with mapping activities hosted by HOT staff, wonderful guest speakers, and volunteers across 12 time zones. We will share the full program soon!
+The event will start on December 4th at 00:00 UTC (10 am for those in the earliest time zones of the Asia-Pacific region) and finish by December 5th at 00:00 UTC (4:00 pm on Dec 4th for those in the Western Coasts of North America). Each session will run for 2 hours, with mapping activities hosted by HOT staff, wonderful guest speakers, and volunteers across 12 time zones. We will share the full program soon!
 
 ![3.png](/uploads/3.png)
 
