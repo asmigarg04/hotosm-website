@@ -1,7 +1,6 @@
 ---
 title: 'Announcing our #MapGiveImpact Telemapathon Guest Speakers!'
 date: 2024-12-02 17:02:00 Z
-published: false
 Summary Text: 'Our #MapGiveImpact global, 24-hour telemapathon is just around the
   corner. We are excited to present our star-studded guest speaker lineup for each
   of the 2-hour sessions.'
