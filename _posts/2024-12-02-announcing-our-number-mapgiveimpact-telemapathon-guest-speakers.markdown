@@ -36,6 +36,7 @@ The event will start on December 4th at 00:00 UTC (10 am for those in the earlie
 ### 10:00 - 12:00PM (UTC +6)
 
 * VICTORIA LEAT, Pacific Disaster Center
+* LANI ROKO, Pacific GIS & Remote Sensing Council
 * S M SAWAN SHARIAR, Regional Ambassador at YouthMappers
 * TASAUF A BAKI BILLAH, Bangladesh Open Innovation Lab
 * VENU KUMAR PANJARLA, Open Data Unit, Gov of Telangana
@@ -66,7 +67,7 @@ The event will start on December 4th at 00:00 UTC (10 am for those in the earlie
 * PIERRE CHRZANOWSKI, World Bank
 * HARRY CHAPLIN, Tatirano
 * ED FREYFOGLE, GeoMob Podcast / OpenCage Data
-* ANNA ZANCHETTA, Alan Turing Institute
+* ANNA ZANCHETTA & ANNE LEE STEELE, Alan Turing Institute
 * VOJTECH REHAK, Médecins Sans Frontières
 * DAGOBERTO MURILLO & HECTOR OCHOA ORTIZ, University of Zaragoza &
 University of Camerino
@@ -124,7 +125,7 @@ University of Camerino
 ### 2:00 - 4:00PM (UTC -8)
 
 * HEATHER PORTER, Rauch Family Foundation
-* TAICHI Furuhashi, Director of Dronebird
+* TAICHI FURUHASHI, Dronebird, Japan Flying Labs
 * MALIA BACHESTA ELEY, Salesforce
 * SANCHAYEETA ADHIKARI, California State University
 * CHARLIE MCGRADY, Overture Maps
