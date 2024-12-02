@@ -27,6 +27,7 @@ The event will start on December 4th at 00:00 UTC (10 am for those in the earlie
 ## SESSION 2: 
 ### 10:00 - 12:00PM (UTC +8)
 * OLAF NEUSSNER, Philippine Space Agency
+* EDOARDO NEERHUT, Meta
 * KUO-YU SLAYER CHUANG, CEO, Geo Things
 * ANJAR AKRIMULLAH, Perkumpulan OpenStreetMap Indonesia
 * FEYE ANDAL, Geospatial Analyst, YouthMappers
