@@ -124,6 +124,7 @@ University of Camerino
 ### 2:00 - 4:00PM (UTC -8)
 
 * HEATHER PORTER, Rauch Family Foundation
+* TAICHI Furuhashi, Director of Dronebird
 * MALIA BACHESTA ELEY, Salesforce
 * SANCHAYEETA ADHIKARI, California State University
 * CHARLIE MCGRADY, Overture Maps
