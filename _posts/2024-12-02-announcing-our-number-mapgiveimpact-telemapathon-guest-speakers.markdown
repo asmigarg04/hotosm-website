@@ -17,7 +17,7 @@ The event will start on December 4th at 00:00 UTC (10 am for those in the earlie
 ## SESSION 1: 
 ### 10:00 - 12:00PM (UTC +10)
 * CAMERON KRUSE, Bridges to Prosperity
-* MARTJIN VAN EXEL, Founder of MapRoulette
+* MARTIJN VAN EXEL, Founder of MapRoulette
 * LEIGH LUNAS, Flying Filipinas
 * JOHN BRYANT, Mammoth Geospatial
 * MARC PFISTER, Maxar
@@ -124,6 +124,7 @@ University of Camerino
 ## SESSION 12: 
 ### 2:00 - 4:00PM (UTC -8)
 
+* QUINCY MORGAN, OpenStreetMap US
 * HEATHER PORTER, Rauch Family Foundation
 * TAICHI FURUHASHI, Dronebird, Japan Flying Labs
 * MALIA BACHESTA ELEY, Salesforce
