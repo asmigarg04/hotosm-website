@@ -8,6 +8,8 @@ Summary Text: O projeto "Cidades Abertas Resilientes" capacitou seis governos em
 Feature Image: "/uploads/Entrenando%20Gobiernos%20Locales%20en%20el%20Uso%20de%20la%20Cartografi%CC%81a%20Colaborativa.jpg"
 ---
 
+[Versión en español](https://www.hotosm.org/updates/entrenando-gobiernos-locales-en-el-uso-de-la-cartografia-colaborativa-alianza-hot-ogp-local/) / [English version](https://www.hotosm.org/updates/training-local-governments-in-the-use-of-collaborative-mapping-hot-ogp-local-partnership/)
+
 No atual contexto da administração pública, a gestão eficiente e equitativa do território é uma prioridade. A falta de dados locais para ação é uma constante, tornando o uso de ferramentas digitais e a colaboração cidadã essenciais para que os governos locais tenham melhores insumos para implementar políticas públicas de qualidade.
 
 Cientes dessa situação, o Hub da América Latina e do Caribe do Humanitarian OpenStreetMap Team (HOT) e a [Parceria para Governo Aberto (OGP) Local](https://www.opengovpartnership.org/es/ogp-local/#:\~:text=A%20trav%C3%A9s%20de%20la%20iniciativa,ciudadanos%20a%20los%20que%20sirven.), em colaboração com a [CoMapper](https://site.comapper.org/), realizaram em fevereiro de 2024 uma convocatória para governos locais da rede de governos da OGP Local participarem do programa “[Cidades Abertas e Resilientes: Treinamento de Governos no Uso de Dados Colaborativos em Cartografia Local](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-latin-america/)”.
