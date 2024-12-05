@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Kate+Chapman+Headshot.jpg
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: President & Board Chair
+Job Title: Treasurer
 Project:
 - Outreachy
 - LearnOSM
