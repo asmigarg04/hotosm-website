@@ -74,7 +74,7 @@ Block 3:
   Image: "/uploads/fair-fmtm-monrovia-digitizing.jpg"
   Tools:
   - Name: Website
-    URL: https://fair-dev.hotosm.org/
+    URL: https://fair.hotosm.org/
   - Name: fAIr GitHub
     URL: https://github.com/hotosm/fAIr
   - Name: HOT Docs
