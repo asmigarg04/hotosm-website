@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/photo+ShoaibBurq.png
 Member Type:
   Is Voting Member: true
   Is Board Member: true
-Job Title: Secretary
+Job Title: Member At Large
 Social Media (Full URL):
   Twitter: 'https://twitter.com/sabman '
   Website: https://burq.fun
