@@ -6,7 +6,7 @@ Member Type:
   Is Staff: false
   Is Voting Member: true
   Is Board Member: true
-Job Title: Member At-Large
+Job Title: 'Secretary '
 Working Group:
 - Activation
 - Governance
