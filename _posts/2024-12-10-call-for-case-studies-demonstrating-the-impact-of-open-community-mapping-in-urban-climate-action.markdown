@@ -32,7 +32,7 @@ The first objective is to collaboratively write and publish a paper in response 
 
 We intend to create evidence that will then be referenced and used in the drafting of the IPCC’s next special report, which also has a focus on Climate Change and Cities.
 
-Call for case studies
+**Call for case studies**
 
 We urge you to share your experiences and case studies that demonstrate the impact of open community mapping in urban climate action. Your contributions will strengthen our research and amplify the voice of the open mapping community on a global stage.
 
