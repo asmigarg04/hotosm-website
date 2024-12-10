@@ -137,7 +137,7 @@ The maximum budget for this assignment is $25k. Payment is initiated based on an
 	</tr><tr>
 		<td>Approved PRs implementing the additional requirements for Web Forms, including custom components and finalized design.</td>
 		<td style="border-left: 1px solid black">20 days (4 weeks)</td>
-<td style="border-left: 1px solid black">$6000</td>
+<td style="border-left: 1px solid black">$5000</td>
 	</tr>
 <tr>
 		<td>Approved PRs for the localization support, including Weblate project and structure in place for easy community contribution.</td>
@@ -147,7 +147,7 @@ The maximum budget for this assignment is $25k. Payment is initiated based on an
 <tr>
 		<td>Approved PRs improving the UI/UX for the mapper frontend, based on field feedback. There may be scope to improve upon final data visualizations.</td>
 <td style="border-left: 1px solid black">20 days (4 weeks)</td>
-<td style="border-left: 1px solid black">$6000</td>
+<td style="border-left: 1px solid black">$5000</td>
 	</tr>			
 <tr>
 		<td>Close all testing and issues raised during the assignment</td>
