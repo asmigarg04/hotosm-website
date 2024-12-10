@@ -6,6 +6,16 @@ Summary Text: O projeto "Cidades Abertas Resilientes" capacitou seis governos em
   abertos e ferramentas geográficas, promovendo soluções resilientes e colaborativas
   diante de desafios urbanos e climáticos.
 Feature Image: "/uploads/Entrenando%20Gobiernos%20Locales%20en%20el%20Uso%20de%20la%20Cartografi%CC%81a%20Colaborativa.jpg"
+Person:
+- Juan Arellano Valdivia
+- Mariana Marín
+Country:
+- Brazil
+- Chile
+- Ecuador
+- México
+Project:
+- Mapping for Climate Ready Cities - Latin America
 ---
 
 [Versión en español](https://www.hotosm.org/updates/entrenando-gobiernos-locales-en-el-uso-de-la-cartografia-colaborativa-alianza-hot-ogp-local/) / [English version](https://www.hotosm.org/updates/training-local-governments-in-the-use-of-collaborative-mapping-hot-ogp-local-partnership/)
@@ -40,6 +50,8 @@ O objetivo era desenvolver um sistema integrado de coleta, sistematização e ge
 
 Utilizando o KoboToolbox para questionários, o QGIS para gerar mapas e análises espaciais, e o OpenStreetMap para baixar, validar e analisar visualmente os dados, foram coletadas informações socioeconômicas e de saúde de 209 indivíduos em 92 residências da Microárea #5 do Município de Painel como um projeto piloto, com planos de expandir para todo o estado. Essas informações servirão de insumo para outros estudos relacionados a doenças como hipertensão e diabetes, bem como para planejamento de serviços.
 
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2oQmA1zAVn8zUJqbxAWkSqEKVnJslpX_jKICFnq7iY7VrYmfBJpJtXIcfMS4DQmjBN633KN7B8HrDZAtB7_i-jfEuoMnj7w0KRjycdkIJK-34BV_Gwmgkc4Q2sjO7ISXPCUgF?key=C231p_RmKrjq-NE_DguJtw)**
+
 *Imagem: Coleta de informações socioeconômicas utilizando ferramentas de mapeamento aberto.*
 
 ## **Chile: Município de Maipú**
@@ -49,6 +61,8 @@ Foi necessário um levantamento detalhado das áreas verdes no bairro de Sol Pon
 O levantamento de dados foi realizado usando o KoboToolbox, com participação cidadã e conhecimento local, através de uma convocatória para lideranças sociais dos bairros. As informações resultantes — 71 polígonos correspondentes a Espaços Públicos Abertos — foram incorporadas à plataforma OpenStreetMap. Além disso, 12 praças da região foram documentadas visualmente utilizando o Mapillary.
 
 Francisco Medina, responsável pela Unidade de Planejamento e Desenvolvimento do Município de Maipú, destacou que os dados geográficos coletados serão cruzados com informações sobre ilhas de calor. Essa análise ajudará a identificar as áreas prioritárias para projetos de regeneração urbana que facilitem a adaptação às mudanças climáticas, especialmente diante de ondas de calor.
+
+![Chile - OGP - Cartografía Colaborativa.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Chile%20-%20OGP%20-%20Cartografi%CC%81a%20Colaborativa.png?download)
 
 *Imagem: Mapa EPA para teste piloto.*
 
@@ -60,6 +74,8 @@ Utilizando o KoboToolbox, foram coletadas 1.190 respostas e a área de estudo fo
 
 Como resultado do projeto, a Direção de Gestão de Riscos da Secretaria de Segurança começou a usar o KoboToolbox para coleta de dados de percepção de riscos em todo o município e território de Quito. Atualmente, a equipe está no campo coletando essas respostas, aplicando este miniprojeto que inicialmente começou como um piloto durante o treinamento.
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBqZ0ppHvhNPsFjK9DskLih2nxhoISecJlJ53hbWmwcuT3oo3x76dKiFJyCyfFAH5PiUkU5a7uzrRL5-TXUVRFUQLjnn4DTaOA4h-HtLDCd4S0H_eR1NS46GAPpjFtbUC4q9GZSg?key=C231p_RmKrjq-NE_DguJtw)
+
 *Imagem: Mapa de percepção de riscos.*
 
 ## **Equador: Governo Autônomo Descentralizado Provincial de Santo Domingo de los Tsáchilas**
@@ -69,6 +85,8 @@ A ideia era obter dados geoespaciais das obras realizadas pelo Governo Autônomo
 Os dados foram coletados com Mapillary e KoboToolbox e posteriormente integrados ao OpenStreetMap. Com o QGIS, foi criado um mapa viário representando caminhos, pontes e sistemas de esgoto existentes e planejados para integrar à Rede Oficial de Rodovias. Adicionalmente, um mapa web foi projetado na plataforma UMap, onde as mesmas camadas de dados foram publicadas.
 
 O governo local busca regulamentar o uso de ferramentas geográficas e expandir sua aplicação para todas as dependências. Embora apenas a Direção de Planejamento tenha participado do curso, o plano é compartilhar esse conhecimento com outras áreas para fortalecer projetos turísticos, produtivos e técnicos. A regulamentação será liderada pela Direção de Planejamento, com apoio legal e técnico especializado.
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdAhFbNVX10jCvAxqDsYEy7TqrsM1J64H31qnz8fFYu_zA7-xpwbW6Gcdy6zBSk2WxYqX0MAsUvKGCi4NJ7GgHICPGdTfzwFvzqOmtSXsqLhioaWStowuZ18LEdNy-2QN9XfDsu?key=C231p_RmKrjq-NE_DguJtw)
 
 *Imagem: Mapa Viário de Valle Hermoso.*
 
@@ -80,6 +98,8 @@ A coleta e carregamento de imagens foram realizados com o Mapillary e, através 
 
 O projeto gerou interesse em diversas áreas do governo municipal para o desenvolvimento de novas iniciativas cartográficas. Por exemplo, a Direção de Manutenção Urbana planeja um projeto de mapeamento e inventário de árvores nos principais parques públicos, utilizando o Organic Maps e o OpenStreetMap. Além disso, foi proposto equipar um veículo do departamento de inspeção da Tesouraria Municipal com uma câmera para mapear a cidade e obter imagens atualizadas que serão integradas à plataforma SIGMUN por meio de um widget. Fotografias do piloto e do levantamento de campo também foram registradas como evidência do trabalho realizado.
 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-ZVs6X30MM8CrShcYtPwu8GgOAajwp6Zau_psgPrVU_4UkPnOYR_jlp1g9GZ84OuemGVZQfnlVK7nWYbSOGW2GU7M9KQhtYApSTt49Fsr6t3o00DEViED07K4jwGHN7f4XDoIqQ?key=C231p_RmKrjq-NE_DguJtw)
+
 *Imagem: Levantamento fotográfico e luminárias da área de estudo.*
 
 ## **México: Governo Estadual de Quintana Roo**
@@ -89,6 +109,8 @@ Sendo Quintana Roo um estado altamente vulnerável a furacões e desastres, foi 
 Essa decisão foi baseada nas necessidades enfrentadas durante a temporada de furacões e no entendimento da importância de localizar corretamente os abrigos que fornecem proteção, alimentação, abrigo e segurança às vítimas durante emergências ou desastres. A área da cidade de Chitomar, em Quintana Roo, foi mapeada diretamente no OpenStreetMap usando o MapRoulette, com apoio de voluntários. Em outra área, os dados foram coletados com o KoboToolbox. Como resultado, foi gerada uma camada de informações precisa e detalhada, além de um visualizador geográfico dos 184 abrigos temporários previamente identificados pelo IGECE.
 
 Essas ferramentas serão um recurso interno essencial para o Instituto, especialmente durante as fases críticas de emergência.
+
+**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcb96c_iE1pgWfhonWy3jPntRvymE8blA3powsqLEAP-BeCpTUj6DS_Gq0Xq-dNgJm0yOy7LQ185pWUtMAT4IejPzKk2CZc_VrNsFNv1KEWD8SJKb9QR51LefVDwTQtdL_S3tcQxg?key=C231p_RmKrjq-NE_DguJtw)**
 
 *Imagem: Visualizador geográfico com dados de abrigos da Península do Sudeste do México, atualizado em 4 de julho de 2024.*
 
