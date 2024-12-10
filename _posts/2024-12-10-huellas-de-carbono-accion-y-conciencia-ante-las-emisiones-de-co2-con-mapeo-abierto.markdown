@@ -45,11 +45,11 @@ Durante la primera fase del proyecto, los estudiantes emplearon diversas herrami
 
 Entre las herramientas de Mapeo Abierto colaborativo empleadas, se destacan las siguientes:
 
-* **Maps Me: **Es una herramienta que permite a los usuarios trazar el recorrido, agregar fotos, vídeos y notas en cada punto del trayecto.
+* \*\*Maps Me: \*\*Es una herramienta que permite a los usuarios trazar el recorrido, agregar fotos, vídeos y notas en cada punto del trayecto.
 
-* **OSM Track: **Es una aplicación que permite agregar fotos, vídeos y notas en cada punto del recorrido.
+* \*\*OSM Track: \*\*Es una aplicación que permite agregar fotos, vídeos y notas en cada punto del recorrido.
 
-* **uMap: **Facilita la creación de relatos visuales combinando trazas con fotos y vídeos, y permite la elaboración de los mapas.
+* \*\*uMap: \*\*Facilita la creación de relatos visuales combinando trazas con fotos y vídeos, y permite la elaboración de los mapas.
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/huella-de-carbono-4-b-tt-cpem-n57_1081859?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/huella-de-carbono-4-b-tt-cpem-n57_1081859?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
 
@@ -61,6 +61,6 @@ Si bien es cierto que durante el desarrollo de este proyecto la simple elaboraci
 
 El proyecto “Huellas de Carbono” del CPEM-57 es otro de los proyectos que ha participado en el concurso MapEdu 2024, organizado por [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/), y ha resultado ganador del primer premio en la categoría “Ciencia y Tecnología”. Por ahora, nos resulta muy valioso destacar las palabras de la profesora Alejandra Límido sobre su participación en el evento, cuando menciona que, más allá de resultar ganadores o no: ***“El concurso ayuda, también a visibilizar lo que los docentes hacen en el aula.”*** Estamos convencidos de que, con esta iniciativa, estamos haciendo entrever muchas de las ideas valiosas que surgen en el seno de los colegios, pero también estamos creando una valiosa red de trabajos de investigación que estarán al servicio de todos, para hacer de este planeta, un lugar mejor.
 
-### Este blog fue escrito por:
+## Este blog fue escrito por:
 
 ![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
