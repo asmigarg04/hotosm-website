@@ -13,7 +13,7 @@ Project:
 - Open Mapping for All
 ---
 
-El proyecto piloto “¡Aquí Podemos Ser!” fue realizado en alianza con la [Corporación Escuela Nacional del Grito](https://escuelanacionaldelgrito.com/), dentro del marco del mapeo abierto, y tiene como objetivo principal dar visibilidad a los espacios físicos y virtuales que los estudiantes consideran seguros, sin temor a juicios o discriminación.
+El proyecto piloto “[¡Aquí Podemos Ser!](https://escuelanacionaldelgrito.com/aqui-podemos-ser/)” fue realizado en alianza con la [Corporación Escuela Nacional del Grito](https://escuelanacionaldelgrito.com/), dentro del marco del mapeo abierto, y tiene como objetivo principal dar visibilidad a los espacios físicos y virtuales que los estudiantes consideran seguros, sin temor a juicios o discriminación.
 
 El propósito del proyecto es que las juventudes participantes no sólo identifiquen estos lugares, sino que también desarrollen una serie de competencias relacionadas con áreas del currículo educativo, como la investigación, el pensamiento crítico, la ciudadanía activa y el uso de herramientas tecnológicas de georreferenciación. Esta iniciativa se presenta como una oportunidad única para fortalecer la salud mental de los estudiantes, enmarcados dentro de una visión social y comunitaria que pone énfasis en el entorno y las relaciones interpersonales como elementos fundamentales para el bienestar.
 
@@ -29,7 +29,7 @@ El proyecto responde a un llamado del Equipo Humanitario de OpenStreetMap, que s
 
 En el proyecto participaron 30 estudiantes, cuatro mediadores y dos profesores, uno de la media técnica y un psicólogo institucional. A lo largo de tres sesiones de trabajo, los estudiantes fueron guiados por profesionales y se reunieron con diferentes actores de la comunidad educativa, incluidos directivos, docentes y otros compañeros. Estas sesiones sirvieron no solo para sensibilizar a los participantes sobre la importancia de los espacios seguros, sino también para introducirlos en el uso de herramientas tecnológicas de mapeo que podían aplicar en su vida diaria.
 
-La primera sesión de mapeo, de una duración de dos horas, permitió a los estudiantes recolectar información sobre sus propios espacios seguros, agregando reflexiones personales sobre cómo perciben la seguridad y cómo usan esos lugares en su vida cotidiana. Al finalizar la sesión, los participantes compartieron sus resultados, lo que enriqueció aún más el mapa resultante y permitió obtener una visión colectiva de la seguridad desde la perspectiva juvenil. 
+La primera sesión de mapeo, de una duración de dos horas, permitió a los estudiantes recolectar información sobre sus propios espacios seguros, agregando reflexiones personales sobre cómo perciben la seguridad y cómo usan esos lugares en su vida cotidiana. Al finalizar la sesión, los participantes compartieron sus resultados, lo que enriqueció aún más el mapa resultante y permitió obtener una visión colectiva de la seguridad desde la perspectiva juvenil.
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXetpbnQJYZ8mATQCYQG0fV4Ma4jY0Wa1CF5wX8FsWAV2qOQU8bU4Rarq5j3oPbR5_pITzsACFq1-GsLSHiHKA0OYVlO3StkP08QaJ9N08Hw7zvvMdy0avQGiZUnTaCcvv7RGKkr8qCiKi6jan1VzHw?key=P4A0enoBOs7DJRFnWzY-dG0e)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUclZzbiXTYC1DuAeKOPrz3R-_-ZVMdpd9cj8OLG0jVi9UhddlkRtVlsuwtsbLLz0xhGqPqMVBcgWOJU13T4yLQm3rE4xIeeT2umlyxs2JfMBGaQTHn4ZFLHfk826YO-XMmN9ED24dPTmly9hTcgE?key=P4A0enoBOs7DJRFnWzY-dG0e)
 
