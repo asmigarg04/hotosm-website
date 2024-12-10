@@ -14,7 +14,7 @@ Person: Sam Colchester
 ---
 
 Tl;Dr
-By publishing research papers in leading scientific journals we intend to influence the IPCC's upcoming special report on Climate Change and Cities, advocating for the inclusion of open mapping as a key strategy. Case studies that demonstrate the application of open community mapping and data in powering urban climate and development action will be an essential part of this. Submit your case study here (open until March 2025): https://bit.ly/3OuK6ME
+By publishing research papers in leading scientific journals we intend to influence the IPCC's upcoming special report on Climate Change and Cities, advocating for the inclusion of open mapping as a key strategy. Case studies that demonstrate the application of open community mapping and data in powering urban climate and development action will be an essential part of this. Submit your [case study here](https://bit.ly/3OuK6ME) (open until March 2025).
 
 **Advancing open community mapping for urban climate action through scientific evidence and policy influence**
 
@@ -39,7 +39,7 @@ We urge you to share your experiences and case studies that demonstrate the impa
 Case studies that demonstrate the direct or transferable application of open community mapping and data in powering urban climate and development action are essential. Successful case study contributors will be invited as authors on the submitted paper. All submitted case studies will be made available for anyone to explore via a database.
 A longer term plan is to build out these case studies into an online resource.
 
-**Submit your case study here (open until March 2025)**: https://bit.ly/3OuK6ME
+**Submit your [case study here](https://bit.ly/3OuK6ME) (open until March 2025)**
 
 For any questions, please contact Pete Masters at: pete.masters@hotosm.org
 
