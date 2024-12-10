@@ -15,6 +15,8 @@ Project:
 
 El proyecto piloto “[¡Aquí Podemos Ser!](https://escuelanacionaldelgrito.com/aqui-podemos-ser/)” fue realizado en alianza con la [Corporación Escuela Nacional del Grito](https://escuelanacionaldelgrito.com/), dentro del marco del mapeo abierto, y tiene como objetivo principal dar visibilidad a los espacios físicos y virtuales que los estudiantes consideran seguros, sin temor a juicios o discriminación.
 
+![El Grito - Open Mapping for All.jpg](/uploads/El%20Grito%20-%20Open%20Mapping%20for%20All.jpg)
+
 El propósito del proyecto es que las juventudes participantes no sólo identifiquen estos lugares, sino que también desarrollen una serie de competencias relacionadas con áreas del currículo educativo, como la investigación, el pensamiento crítico, la ciudadanía activa y el uso de herramientas tecnológicas de georreferenciación. Esta iniciativa se presenta como una oportunidad única para fortalecer la salud mental de los estudiantes, enmarcados dentro de una visión social y comunitaria que pone énfasis en el entorno y las relaciones interpersonales como elementos fundamentales para el bienestar.
 
 # **Mapeo Abierto y Salud Mental en Contextos de Conflicto**
@@ -31,7 +33,7 @@ En el proyecto participaron 30 estudiantes, cuatro mediadores y dos profesores, 
 
 La primera sesión de mapeo, de una duración de dos horas, permitió a los estudiantes recolectar información sobre sus propios espacios seguros, agregando reflexiones personales sobre cómo perciben la seguridad y cómo usan esos lugares en su vida cotidiana. Al finalizar la sesión, los participantes compartieron sus resultados, lo que enriqueció aún más el mapa resultante y permitió obtener una visión colectiva de la seguridad desde la perspectiva juvenil.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXetpbnQJYZ8mATQCYQG0fV4Ma4jY0Wa1CF5wX8FsWAV2qOQU8bU4Rarq5j3oPbR5_pITzsACFq1-GsLSHiHKA0OYVlO3StkP08QaJ9N08Hw7zvvMdy0avQGiZUnTaCcvv7RGKkr8qCiKi6jan1VzHw?key=P4A0enoBOs7DJRFnWzY-dG0e)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUclZzbiXTYC1DuAeKOPrz3R-_-ZVMdpd9cj8OLG0jVi9UhddlkRtVlsuwtsbLLz0xhGqPqMVBcgWOJU13T4yLQm3rE4xIeeT2umlyxs2JfMBGaQTHn4ZFLHfk826YO-XMmN9ED24dPTmly9hTcgE?key=P4A0enoBOs7DJRFnWzY-dG0e)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wrxwNkJQkA8?si=OOSrwrKYPR8QEApp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # **Valorando el Pensamiento Crítico y el uso de la Tecnología en la Educación**
 
