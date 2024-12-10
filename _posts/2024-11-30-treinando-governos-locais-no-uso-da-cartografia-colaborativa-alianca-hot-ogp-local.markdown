@@ -62,7 +62,7 @@ O levantamento de dados foi realizado usando o KoboToolbox, com participação c
 
 Francisco Medina, responsável pela Unidade de Planejamento e Desenvolvimento do Município de Maipú, destacou que os dados geográficos coletados serão cruzados com informações sobre ilhas de calor. Essa análise ajudará a identificar as áreas prioritárias para projetos de regeneração urbana que facilitem a adaptação às mudanças climáticas, especialmente diante de ondas de calor.
 
-![Chile - OGP - Cartografía Colaborativa.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Chile%20-%20OGP%20-%20Cartografi%CC%81a%20Colaborativa.png?download)
+![Chile - OGP - Cartografía Colaborativa.png](/uploads/Chile%20-%20OGP%20-%20Cartografi%CC%81a%20Colaborativa.png)
 
 *Imagem: Mapa EPA para teste piloto.*
 
