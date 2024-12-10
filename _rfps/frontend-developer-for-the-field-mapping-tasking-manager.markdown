@@ -4,7 +4,7 @@ date: 2024-12-10 16:54:00 Z
 Deadline Date: 2025-01-04 23:59:00 Z
 Page Contact:
   Contact Email: sam.woodcock@hotosm.org
-  Label: Email for submissions
+  Label: Send your application
 ---
 
 <table style="border-bottom: 1px solid black">
