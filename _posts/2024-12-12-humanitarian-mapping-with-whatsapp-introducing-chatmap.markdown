@@ -14,7 +14,7 @@ A few months ago, [Céline Jacquin](https://www.hotosm.org/people/celine-jacquin
 
 A few months later, in the city of Porto Alegre, Brazil, [big floods affected a big area](https://www.hotosm.org/updates/humanitarian-mapping-for-climate-resilience-responding-to-floods-in-porto-alegre/), two million people were impacted. Again, WhatsApp was on the conversation:
 
-> “A local university is receiving WhatsApp pictures and locations from local people in the disaster. And the university is asking us what to do with that. 
+> “A local university is receiving WhatsApp pictures and locations from local people in the disaster. And the university is asking us what to do with that.
 
 As a volunteer firefighter, I have experienced this need firsthand. In the place where I live, street names are something new, so it’s common for people to share their location with us via their phones to help us find their houses during emergencies.
 
@@ -32,25 +32,25 @@ This solution provides complete independence, as it does not require users to ad
 
 We’re already using it! Recently, as part of a community mapping project to assess the risks in the slopes of Comuna 8 in Medellín, an area vulnerable to repeated flooding, a group of students and local collectives collaborated with the Humanitarian OpenStreetMap (HOT) to map areas affected by landslides and other disaster impacts. This initiative facilitated the identification and characterization of settlements, supporting humanitarian aid efforts.
 
-*![Humanitarian Mapping ChatMap.jpg](/uploads/Humanitarian%20Mapping%20ChatMap.jpg)\
+![Humanitarian Mapping ChatMap.jpg](/uploads/Humanitarian%20Mapping%20ChatMap.jpg)*\
 **Photo by Daniela Arbeláez Suárez (source: WhatsApp)***
 
 As shown in the picture, the community explored the area on foot, using their phones to take photos and notes, and shared them along with the location. It was incredibly simple!
 
 The data gathered during this activity was transformed 20 minutes later (once getting access to a WIFI network) into a map, which was then uploaded to our online platform powered by uMap ([umap.hotosm.org](http://umap.hotosm.org)).
 
-[![Humanitarian Mapping ChatMap WhatsApp Colombia.jpg](/uploads/Humanitarian%20Mapping%20ChatMap%20WhatsApp%20Colombia.jpg)](https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38#17/6.24974/-75.53854)\
+![Humanitarian Mapping ChatMap WhatsApp Colombia.jpg](/uploads/Humanitarian%20Mapping%20ChatMap%20WhatsApp%20Colombia.jpg)\
 *See more at **[https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38](https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38#17/6.24974/-75.53854)***
 
 # **What’s next?**
 
 After the initial testing, many exciting ideas emerged to make the tool even more adequate, but our immediate focus is on simplifying the process of saving maps, including the shared media, so they can be easily accessed via a URL for future use. Beyond that, we’re exploring innovative ways to leverage the shared data even further.
 
-If you’re curious about this process, why not give it a try? All you need are WhatsApp messages with shared locations—no additional setup required! 
+If you’re curious about this process, why not give it a try? All you need are WhatsApp messages with shared locations—no additional setup required!
 
 Just check this video-tutorial.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ScHgVhyj1aw?si=D1kjlvvdD3xrH6Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://www.youtube.com/embed/ScHgVhyj1aw?si=D1kjlvvdD3xrH6Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The code is available on [GitHub](https://github.com/hotosm/chatmap), complete with documentation on how to run it and comments within the code. You’re welcome to contribute, use it, improve it, and even install it on your own servers.
 
