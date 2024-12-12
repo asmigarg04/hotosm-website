@@ -8,6 +8,8 @@ Feature Image: "/uploads/chatmap%20whatsapp%20humanitarian%20openstreetmap.jpg"
 Person: Emilio Mariscal
 ---
 
+[Spanish version](https://www.hotosm.org/updates/mapeo-humanitario-con-whatsapp-presentando-chatmap/)
+
 A few months ago, [Céline Jacquin](https://www.hotosm.org/people/celine-jacquin/), Senior Manager for the Latin America and the Caribbean Hub, mentioned a community in need of humanitarian mapping, where residents had zero to minimal tech knowledge.
 
 > "Many of the people involved are people with zero tech knowledge, even very old people tell me that, well, they are using their cell phones for WhatsApp and that's it.”
