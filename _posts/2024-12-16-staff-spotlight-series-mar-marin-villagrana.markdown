@@ -11,6 +11,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members.
   featured in this Spotlight Series have been peer-nominated for their superb performance
   and values-driven work.
 Feature Image: "/uploads/Picture%201.png"
+Person: Dana Gallaty
 ---
 
 ![Picture 2.png](/uploads/Picture%202.png)
