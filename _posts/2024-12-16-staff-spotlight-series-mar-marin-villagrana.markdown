@@ -10,12 +10,11 @@ tags:
 Summary Text: Each quarter, we’re featuring one of our all-star staff members. Staff
   featured in this Spotlight Series have been peer-nominated for their superb performance
   and values-driven work.
-Feature Image: "/uploads/Picture%201-7e3289.png"
 Is image top aligned: true
 Person: Dana Gallaty
 ---
 
-![Picture 2.png](/uploads/Picture%202.png)
+![Picture 1-7e3289.png](/uploads/Picture%201-7e3289.png)
 
 ## What first attracted you to work at HOT?
 
@@ -34,6 +33,8 @@ HOT’s mission to empower communities through open mapping strongly aligns with
 ## Who/what are some of your biggest inspirations within HOT and/or wider OSM community?
 
 Everyone in the HOT and OSM community is a huge inspiration to me! That said, I have to give special credit to Céline Jacquin, Juan Melo, and Tim deWinter from the Open Mapping Hub in Latin America and the Caribbean. They not only mentored and drove me to learn how to map but have also inspired me to share this knowledge with my local community through social impact mapping projects. Within the broader OSM community, I’m a big fan of Andrés Gómez Casanova (AngocA). His kindness and humility in sharing his extensive knowledge about open mapping have been truly inspiring and motivating for me.
+
+![Picture 2.png](/uploads/Picture%202.png)
 
 ## What is your current role at HOT, and how has it evolved?
 
