@@ -7,10 +7,11 @@ categories:
 tags:
 - staff
 - mapping careers
-Summary Text: Each quarter, we’re featuring one of our all-star staff members. Staff
-  featured in this Spotlight Series have been peer-nominated for their superb performance
-  and values-driven work.
-Feature Image: "/uploads/Picture%201.png"
+Summary Text: |-
+  ![Picture 1-7e3289.png](/uploads/Picture%201-7e3289.png)
+
+  Each quarter, we’re featuring one of our all-star staff members. Staff featured in this Spotlight Series have been peer-nominated for their superb performance and values-driven work.
+Is image top aligned: true
 Person: Dana Gallaty
 ---
 
