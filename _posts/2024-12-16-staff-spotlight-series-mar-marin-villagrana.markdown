@@ -22,7 +22,7 @@ I first came across OpenStreetMap and HOT during the Code for All Summit in 2023
 
 Later in the year, I had another opportunity to engage with this incredible work of OSM communities during a workshop at the Creative Commons Summit in Mexico City. That experience solidified my admiration for the mission and the transformative power of open mapping, and I knew I wanted to be part of it.
 
-##Tell us a bit about how your career/personal journey led you to HOT.
+## Tell us a bit about how your career/personal journey led you to HOT
 
 I studied International Relations with a specialization in Peace and Conflict Studies, and I’ve always been passionate about using communication and storytelling as tools for driving meaningful change. This passion has guided me through diverse opportunities, from working at the United Nations Population Fund to leading communications and advocacy for civil society at a cybersecurity enterprise, and organizing regional and global community events with the [Code for All](https://codeforall.org/) Network and [Mozilla Festival](https://foundation.mozilla.org/en/blog/topic/mozilla-festival/).
 
@@ -39,7 +39,9 @@ Everyone in the HOT and OSM community is a huge inspiration to me! That said, I 
 ## What is your current role at HOT, and how has it evolved?
 
 I currently serve as the Senior Communications Manager for the Open Mapping Hub in Latin America and the Caribbean. In this role, I’ve been leading communication strategies to raise awareness of HOT's initiatives across the region. My focus is on crafting and overseeing the comms strategies for our projects and activities, ensuring the implementation of dynamic formats, including transmedia storytelling, to maximize engagement and outreach across various platforms.
+
 A key highlight of my role has been participating in community activities. With the support of my team, I developed and implemented the Humanitarian Mapping Laboratory, an initiative where I collaborated with colleagues to design and guide a cohort of around 50 individuals. This program equipped participants with citizen science and open mapping tools to enhance emergency mapping responses across the region.
+
 Additionally, I’ve had the opportunity to volunteer with local organizations and the government of Querétaro, Mexico, on mapping cyclist infrastructure. This project provided firsthand insight into the transformative potential of open data and mapping for documenting critical infrastructure and shaping more informed, effective public policies. It further strengthened my conviction in the power of open mapping to drive meaningful change.
 
 ## What is the most interesting project you've worked on here?
@@ -58,6 +60,6 @@ I would love to go to Guatemala, Portugal and Kenya—definitely destinations I�
 
 ## What’s a personal goal of yours that you're currently working on?
 
-I’m currently working on deepening the integration of open mapping tools into community-led initiatives in my city. Since learning about open mapping, I’ve been organizing workshops with local organizations, academia, and the local government to use Mapillary and OpenStreetMap (OSM) for documenting cyclist and pedestrian infrastructure in my city. These efforts aim to enhance participants to contribute to more accessible and sustainable urban planning. 
+I’m currently working on deepening the integration of open mapping tools into community-led initiatives in my city. Since learning about open mapping, I’ve been organizing workshops with local organizations, academia, and the local government to use Mapillary and OpenStreetMap (OSM) for documenting cyclist and pedestrian infrastructure in my city. These efforts aim to enhance participants to contribute to more accessible and sustainable urban planning.
 
 Also, as a volunteer for the Mexican Wikimedia Chapter, I’ve been exploring the connection between OSM and Wikidata. Whenever I encounter a point of interest that relates to an item in Wikidata, I link them so that people can access more detailed information or locate it directly in OSM. This ongoing effort combines both my passion for OSM and Wikimedia.
