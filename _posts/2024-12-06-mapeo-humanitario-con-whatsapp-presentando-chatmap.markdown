@@ -46,7 +46,7 @@ Los datos recopilados durante esta actividad se transformaron, 20 minutos despu�
 
 ![Humanitarian Mapping ChatMap WhatsApp Colombia.jpg](/uploads/Humanitarian%20Mapping%20ChatMap%20WhatsApp%20Colombia.jpg)
 
-Consulta más en: [https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38](http://)
+Consulta más en: [https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38](https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38#17/6.25014/-75.53986)
 
 # ¿Qué sigue?
 
