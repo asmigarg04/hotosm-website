@@ -30,22 +30,22 @@ La caminata nos permitió apreciar las características especiales de la zona �
 
 Esta observación sobre el terreno se vio complementada con el contexto aportado que proporcionaron las y los miembros de la comunidad que nos acompañaron, como por ejemplo la narrativa de cómo surgieron los barrios de la zona, la histórica falta de servicios, las problemáticas que fueron enfrentando como la violencia de los grupos armados y el narcotráfico, o el [riesgo de los desastres naturales](https://www.h13n.com/viviendas-colapsaron-causa-lluvias/153109/), la respuesta de la propia población a todo esto, los apoyos recibidos de diversas organizaciones de cooperación, entre otros. También, a lo largo del recorrido, fueron identificando las edificaciones importantes para la comunidad como el colegio, el centro comunal y otros puntos de interés.
 
-<iframe width="560" height="315" \
-    src="https://www.youtube.com/embed/B6FZf9zSdAY" \
-    title="YouTube video player" \
-    frameborder="0" \
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" \
-    allowfullscreen>\
-</iframe>
+<iframe width="315" height="560" \
+src="https://www.youtube.com/embed/B6FZf9zSdAY" \
+title="YouTube video player" frameborder="0" \
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;\
+gyroscope; picture-in-picture;\
+web-share"\
+allowfullscreen></iframe>
 
 La mayoría de estos puntos de interés se mapearon fácilmente gracias a [ChatMap, una nueva herramienta desarrollada por nuestro equipo técnico](https://www.hotosm.org/updates/mapeo-humanitario-con-whatsapp-presentando-chatmap/). Con esta herramienta, basta con compartir por WhatsApp la ubicación, una descripción o una foto del lugar, y automáticamente se genera un mapa que incluye todos estos puntos.
 
-<iframe width="560" height="315" \
-    src="https://www.youtube.com/embed/ONzedlo0liI" \
-    title="YouTube video player" \
-    frameborder="0" \
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" \
-    allowfullscreen>\
-</iframe>
+<iframe width="315" height="560" \
+src="https://www.youtube.com/embed/ONzedlo0liI" \
+title="YouTube video player" frameborder="0" \
+allow="accelerometer; autoplay; clipboard-write; encrypted-media;\
+gyroscope; picture-in-picture;\
+web-share"\
+allowfullscreen></iframe>
 
 El descenso fue menos exigente, aunque hizo crujir las rodillas de los más veteranos del grupo. Sin embargo, también nos brindó la oportunidad de reflexionar en voz alta con nuestro compañero de ruta sobre la importancia de abordar de manera integral las necesidades de los barrios. En este proceso, el mapa debe ser tanto la base como la herramienta que permita a las propias comunidades construir un futuro mejor para sí mismas.
