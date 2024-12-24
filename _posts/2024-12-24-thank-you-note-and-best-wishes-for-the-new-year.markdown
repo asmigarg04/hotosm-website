@@ -2,6 +2,9 @@
 title: Thank you note and best wishes for the New Year
 date: 2024-12-24 08:13:00 Z
 Feature Image: "/uploads/unnamed.png"
+Person:
+- 
+- 
 ---
 
 Dear HOT Community and Partners,
@@ -15,8 +18,10 @@ As we look ahead to 2025, we are excited to continue building on this momentum, 
 Wishing you a joyful holiday season and a new year filled with hope for a better world! 
 
 
+
 With gratitude,
 
-Fabrizio Scrollini and Liz Chamberlain, 
+Fabrizio Scrollini and Liz Chamberlain,
+
 Co-Executive Directors, Humanitarian OpenStreetMap Team 
 
