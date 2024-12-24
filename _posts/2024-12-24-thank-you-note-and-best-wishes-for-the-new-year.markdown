@@ -19,9 +19,9 @@ Wishing you a joyful holiday season and a new year filled with hope for a better
 
 
 
+
 With gratitude,
 
 Fabrizio Scrollini and Liz Chamberlain,
-
 Co-Executive Directors, Humanitarian OpenStreetMap Team 
 
