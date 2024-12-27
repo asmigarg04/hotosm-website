@@ -1,6 +1,15 @@
 ---
 title: 'SOTM LATAM 2024: Pensar América Latina con mapas abiertos'
-date: 2024-12-22 16:40:00 Z
+date: 2024-12-26 16:40:00 Z
+tags:
+- sotm
+- latam
+- mapeo
+Summary Text: En Belém, activistas de la geotecnología intercambiaron experiencias
+  para abordar cuestiones como la crisis climática. Ya que los datos abiertos y la
+  cartografía son esenciales en la búsqueda de la soberanía popular en los territorios
+  ¿Cómo pueden servir a los pueblos amazónicos?
+Feature Image: "/uploads/postop2.jpg"
 Person: Antonio Laranjeira
 ---
 
