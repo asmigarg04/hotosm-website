@@ -26,6 +26,8 @@ Comunidades de hackers y makers como el [Hub de Mapeo Abierto](https://www.hotos
 
 En total, SOTM Latam 2024 contó con participantes de 18 países presentes en Belém do Pará, como se muestra en el siguiente mapa.
 
+<iframe title="People present in SOTM Latam 2024 by country" aria-label="Map" id="datawrapper-chart-e3l2m" src="https://datawrapper.dwcdn.net/e3l2m/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+
 El programa incluyó talleres y conferencias, conversaciones y encuentros. Los temas tratados en SOTM se pueden resumir en tres ejes: **historias de impacto social en la Amazonía, historias de tecnologías abiertas e historias de gestión del espacio público**.
 
 A continuación se muestra un resumen de las ideas sobre las cosas más impactantes vistas y escuchadas durante la conferencia. Todos los informes tienen los datos de contacto de los representantes y sus perfiles disponibles en el sitio web global del evento.
