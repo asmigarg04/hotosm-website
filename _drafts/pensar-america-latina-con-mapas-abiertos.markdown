@@ -41,3 +41,41 @@ El proyecto Meninas da Geo, que desde 2019 incentiva a las jóvenes a fortalecer
 El impacto de las tierras caídas (erosión fluvial común en la región del río Solimões) fue el tema de la presentación de **Davy Rabelo**. Utilizando imágenes satelitales y drones, contó la historia de Paula dos Santos Silva (foto abajo), con quien cartografió las áreas afectadas en comunidades ribereñas del Amazonas, revelando la urgencia de un monitoreo constante para evitar catástrofes. El trabajo también destacó el papel de OpenStreetMap en la difusión de datos esenciales para la formulación de políticas públicas.
 
 En Ecuador, **Iván Terceros** informó sobre una serie de talleres realizados por la Fundación Openlab Ecuador, en colaboración con universidades locales y gobiernos municipales. La capacitación  en mapeo colaborativo alcanzó a más de 250 personas, promoviendo una cultura de recopilación y uso de datos abiertos para la gestión de riesgos y la planificación del desarrollo regional.
+
+### **Historias de tecnologías abiertas**
+
+El colectivo **Geochicas**, formado por feministas activas en OpenStreetMap, busca reducir la brecha de género y empoderar a las mujeres en el universo del software libre y los datos abiertos. Desde 2016, la iniciativa lleva a cabo proyectos como mapeo de feminicidios, visibilización de movilizaciones feministas y capacitación tecnológica. Destacan acciones como el mapeo de calles con nombres femeninos y campañas contra la violencia de género.
+
+**Andrés Gómez Casanova** presentó herramientas para corregir errores en el mapeo de ríos y arroyos en OpenStreetMap. Utilizando el sistema waterwaymap.org con capas publicadas en el geoserver de osm.lat, la solución identifica bucles y terminaciones incorrectas, permitiendo ajustar el trazado de los cursos de agua en base a imágenes aéreas y mapas oficiales. La propuesta pretende representar cuencas fluviales completas y realistas, destacando la importancia de la preservación del agua en América Latina.
+
+**Carolina García Mancero** destacó un proyecto que mapeó comunidades vulnerables y rutas de evacuación en zonas cercanas a volcanes en Ecuador. Utilizando herramientas como OpenStreetMap y Mapillary, el proyecto reunió a un equipo en el campo (ver foto a continuación) para recopilar datos críticos para la gestión de riesgos y fortalecer la resiliencia local, promoviendo la colaboración entre comunidades y organizaciones.
+
+**Séverin Ménard** presentó Panoramax, un proyecto comunitario para crear un “Street View” descentralizado y accesible. El taller cubrió todo, desde la captura de imágenes hasta la publicación y reutilización, promoviendo el uso de estándares abiertos y la colaboración para su aplicación en contextos locales.
+
+**Emilio Mariscal **e** Ivan Gayton** mostraron cómo las herramientas integradas de código abierto del Humanitarian OpenStreetMap Team (HOT) permiten realizar un mapeo humanitario abierto de extremo a extremo. El taller (foto abajo) cubrió procesos desde la captura de imágenes con drones hasta la recolección de datos en el campo y la exportación de mapas, reforzando el impacto de la tecnología abierta en desastres y acciones comunitarias.
+
+### Historias de gestión del espacio público
+
+En Argentina, el movimiento agroecológico ha cobrado fuerza en los últimos años, especialmente en la Provincia de Buenos Aires, donde el municipio de Luján se ha convertido en un referente en el mapeo para mitigar las disputas por el uso del suelo. **Andrés Esteban Duhour** presentó el caso de la ciudad, caracterizada por un escenario de transición entre lo agrícola y lo urbano, buscando integrar prácticas agroecológicas en un contexto de fuerte presión de los modelos productivos convencionales.
+
+**Yessica De los Ríos Olarte** presentó un proyecto de cartografía participativa en Medellín, Colombia, para reducir la vulnerabilidad comunitaria a las inundaciones. La recopilación de datos geoespaciales incluyó infraestructura local y factores de riesgo, lo que dio como resultado mapas que guían las medidas de mitigación y resiliencia. La iniciativa también promovió una cultura de autogestión de riesgos.
+
+La experiencia del mapeo del transporte público ha demostrado ser una herramienta crucial para mejorar la movilidad urbana en América Latina, y sobre eso fue la presentación de **Leonardo Gutiérrez** que ha desarrollado varios proyectos para la  Asociación Trufi, que opera en México, Perú, Colombia y Bolivia. Estos proyectos a menudo implican la colaboración entre las autoridades locales y las comunidades cartográficas, con el objetivo de generar datos precisos sobre las rutas de transporte formales e informales. El uso de herramientas como OpenStreetMap y el editor JOSM se ha expandido como una solución efectiva para las ciudades latinoamericanas que enfrentan desafíos relacionados con la recopilación y organización de estos datos.
+
+**Céline Jacquin** demostró cómo el mapeo con OpenStreetMap ha jugado un papel importante en la respuesta a los desastres naturales en América Latina. La experiencia del Equipo Humanitario de OpenStreetMap (HOT) en países como Perú, Ecuador, México y Brasil muestra cómo la colaboración entre gobiernos, universidades, organizaciones y comunidades ha sido vital en el manejo de crisis, como los fenómenos de El Niño y La Niña (ver foto de arriba). En situaciones de emergencia, la rápida creación de mapas detallados ha permitido una respuesta más eficiente, con datos actualizados y fácilmente accesibles. La capacitación de las comunidades locales también ha sido una prioridad, promoviendo el empoderamiento técnico y ayudando a establecer redes de apoyo sobre el terreno.
+
+Pensar el mundo con mapas
+
+El State of the Map Latam 2024 no fue solo un encuentro tecnológico, sino una demostración de cómo el conocimiento de hackers y makers puede transformar territorios y vidas.
+
+Belém, con su posición geográfica única y su historia de resistencia, fue el escenario ideal para reafirmar que un mundo más justo pasa por la necesidad de una cartografía local que horizontalice la información en el mapa para todos.
+
+Sin embargo, un mapa para todos debe incluir también otras formas de vida más allá de las ciudades, como los bosques en todas sus capas: suelo, vegetación, agua, atmósfera.
+
+La Tierra como espacio público debe ser la prioridad de toda sociedad, considerada la primera instancia de interés público, de donde surgen datos y donde tienen lugar todas las luchas históricas que transforman la Tierra en un territorio modelado por la opinión pública de cada momento.
+
+El SOTM Latam, apoyado por organizaciones que creen en la utilidad de los mapas abiertos, después de todas estas presentaciones, se abrió a una pregunta en vísperas de la COP-30: ¿cómo podemos ayudar a salvar el planeta “hoy” –y no “mañana”-? ¿Haciendo mapas que protejan el planeta?
+
+¿Quieres saber más sobre cómo ponerte en contacto con la comunidad OpenStreetMap Latam? Únete a la comunidad en el canal de Telegram para preguntas iniciales o avanzadas. También puedes ver los videos de esta edición de SOTM Latam en el canal de YouTube. ¡Nos vemos en el mapa!
+
+**\* Antonio Heleno Caldas Laranjeira** es periodista de la Universidad Federal de Recôncavo da Bahia (UFRB), Máster en Comunicación y Sociedad de la Universidad Federal de Sergipe (UFS), Doctorando en Comunicación y Cultura de la Universidad Federal de Bahía (UFBA) y Profesor de Geocomunicaciones de la Universidad Brasileña Instituto de Investigación y Análisis de Datos (IPBAD).
