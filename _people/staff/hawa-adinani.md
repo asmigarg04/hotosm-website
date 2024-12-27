@@ -4,6 +4,7 @@ date: 2017-11-16 21:13:00 Z
 Photo: https://cdn.hotosm.org/website/IMG_1601-914d81.JPG
 Member Type:
   Is Staff: false
+  Is Voting Member: true
   Is Board Member: true
 Job Title: Member At-Large
 Country: Tanzania
