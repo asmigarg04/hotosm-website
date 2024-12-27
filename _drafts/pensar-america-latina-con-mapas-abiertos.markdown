@@ -76,6 +76,6 @@ La Tierra como espacio público debe ser la prioridad de toda sociedad, consider
 
 El SOTM Latam, apoyado por organizaciones que creen en la utilidad de los mapas abiertos, después de todas estas presentaciones, se abrió a una pregunta en vísperas de la COP-30: ¿cómo podemos ayudar a salvar el planeta “hoy” –y no “mañana”-? ¿Haciendo mapas que protejan el planeta?
 
-¿Quieres saber más sobre cómo ponerte en contacto con la comunidad OpenStreetMap Latam? Únete a la comunidad en el canal de Telegram para preguntas iniciales o avanzadas. También puedes ver los videos de esta edición de SOTM Latam en el canal de YouTube. ¡Nos vemos en el mapa!
+¿Quieres saber más sobre cómo ponerte en contacto con la comunidad OpenStreetMap Latam? Únete a la comunidad en el [canal de Telegram](https://t.me/OSMLatam) para preguntas iniciales o avanzadas. También puedes ver los videos de esta edición de SOTM Latam en el [canal de YouTube](https://www.youtube.com/playlist?list=PLPZlngwRgZL3vDDCdrSIbJEYr-Fqp8tQM). ¡Nos vemos en el mapa!
 
 **\* [Antonio Heleno Caldas Laranjeira](https://outraspalavras.net/author/antoniolaranjeira/)** es periodista de la Universidad Federal de Recôncavo da Bahia (UFRB), Máster en Comunicación y Sociedad de la Universidad Federal de Sergipe (UFS), Doctorando en Comunicación y Cultura de la Universidad Federal de Bahía (UFBA) y Profesor de Geocomunicaciones de la Universidad Brasileña Instituto de Investigación y Análisis de Datos (IPBAD).
